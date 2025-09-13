@@ -1,0 +1,1 @@
+((Loxodonta_africana_XP_023397549.1:0.234578,Echinops_telfairi_XP_030744129.1:0.192629):0.0327545,(Sus_scrofa_XP_005661477.1:0.291113,((Saimiri_boliviensis_boliviensis_XP_003944514.1:0.0747397,Homo_sapiens_NP_001691.1:0.0461193):0.0665813,Microcebus_murinus_XP_012601160.1:0.101275):0.0208248):0.0327545);

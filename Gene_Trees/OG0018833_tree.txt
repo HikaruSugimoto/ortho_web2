@@ -1,0 +1,1 @@
+(Mesocricetus_auratus_XP_005066329.1:0.259352,((Rattus_norvegicus_NP_001038167.1:0.14231,Rattus_norvegicus_XP_038952367.1:0.0709107):0.213333,Rattus_norvegicus_XP_008769837.2:0.563295):0.259352);

@@ -1,0 +1,1 @@
+(Microcebus_murinus_XP_012639193.1:0.0881742,(Sus_scrofa_XP_020956294.1:0.539416,(Canis_lupus_familiaris_XP_038414939.1:0,Canis_lupus_familiaris_XP_038414940.1:0):0.177952):0.0881742);

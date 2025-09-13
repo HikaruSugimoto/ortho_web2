@@ -1,0 +1,1 @@
+(Sus_scrofa_XP_020955692.1:0.716278,(Ictidomys_tridecemlineatus_XP_040137945.1:0.45397,(Saimiri_boliviensis_boliviensis_XP_003923239.3:0.307535,(Homo_sapiens_NP_001010886.1:0.0683341,Homo_sapiens_XP_016866309.1:0.19975):0.13649):0.166463):0.716278);

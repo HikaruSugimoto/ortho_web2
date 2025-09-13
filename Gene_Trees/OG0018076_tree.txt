@@ -1,0 +1,1 @@
+(Echinops_telfairi_XP_045141362.1:0.572519,(((Microcebus_murinus_XP_020141093.1:0.391244,((Microcebus_murinus_XP_012601060.2:0.6385,Microcebus_murinus_XP_012618564.2:3.70653e-06):0.30854,Microcebus_murinus_XP_020141084.1:0.2505):0.212586):0.166369,Microcebus_murinus_XP_020141082.1:0.221323):0.285901,Microcebus_murinus_XP_020141083.1:0.205497):0.572519);

@@ -1,0 +1,1 @@
+(Sarcophilus_harrisii_XP_031796680.1:0.2118,((Microcebus_murinus_XP_012630751.1:0.187589,Myotis_lucifugus_XP_023605712.1:0.341965):0.238832,((Ursus_americanus_XP_045635670.1:0.112283,Microcebus_murinus_XP_020143311.1:0.650316):0.419559,(Ictidomys_tridecemlineatus_XP_040135800.1:0.591103,Myotis_lucifugus_XP_023605590.1:0.429578):0.0180153):0.352655):0.2118);

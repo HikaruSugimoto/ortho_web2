@@ -1,0 +1,1 @@
+((Loxodonta_africana_XP_023396097.1:0.140224,Loxodonta_africana_XP_003422702.1:0.0998717):0.0476361,((Ursus_americanus_XP_045659985.1:0.00696519,Ursus_americanus_XP_045659978.1:0.0599488):0.0674271,(Mesocricetus_auratus_XP_040604013.1:0.0552586,(Rattus_norvegicus_NP_001000023.1:0.0327892,Mus_musculus_NP_666640.1:0.0388998):0.0226809):0.142576):0.0476361);

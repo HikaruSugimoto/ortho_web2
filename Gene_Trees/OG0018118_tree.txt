@@ -1,0 +1,1 @@
+((Sus_scrofa_XP_001927446.1:0.086392,Ursus_americanus_XP_045671780.1:0.653295):0.075042,((Saimiri_boliviensis_boliviensis_XP_003939883.1:0.236476,Homo_sapiens_NP_892016.1:0.0965448):0.210591,((Rattus_norvegicus_NP_898878.1:0.118565,Mus_musculus_NP_001034138.1:0.0513141):0.251912,Mesocricetus_auratus_XP_005068334.1:0.130424):0.336419):0.075042);

@@ -1,0 +1,1 @@
+((Ursus_americanus_XP_045669634.1:0.313812,Canis_lupus_familiaris_NP_001003189.1:0.26013):0.226365,((Sarcophilus_harrisii_XP_003758835.1:0.313683,Sarcophilus_harrisii_XP_012396091.1:0.508114):0.133969,Sarcophilus_harrisii_XP_023351137.1:0.779589):0.226365);

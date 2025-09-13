@@ -1,0 +1,1 @@
+(Ictidomys_tridecemlineatus_XP_040124197.1:0.317151,(Mesocricetus_auratus_XP_021087296.1:0.426478,((Rattus_norvegicus_XP_063137033.1:0,Rattus_norvegicus_XP_063137031.1:0):0,Rattus_norvegicus_XP_063137032.1:0):0.528864):0.317151);

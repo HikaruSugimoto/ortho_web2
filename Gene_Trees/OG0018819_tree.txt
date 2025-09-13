@@ -1,0 +1,1 @@
+((Loxodonta_africana_XP_023399455.1:0.00742975,Loxodonta_africana_XP_023399454.1:0.0581482):0.192589,(Urocitellus_parryii_XP_026235549.1:0.810534,Ursus_americanus_XP_045629181.1:0.610668):0.192589);

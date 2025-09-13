@@ -1,0 +1,1 @@
+(Loxodonta_africana_XP_010589230.1:0.139539,(Sus_scrofa_XP_005655736.2:0.263382,(((Mus_musculus_XP_006506184.1:0.130355,Rattus_norvegicus_NP_852037.1:0.125829):0.0986085,Mesocricetus_auratus_XP_005087204.1:0.203089):0.219055,(Urocitellus_parryii_XP_026266687.1:0.0792262,Ictidomys_tridecemlineatus_XP_040137889.1:0.109349):0.242583):0.074517):0.139539);

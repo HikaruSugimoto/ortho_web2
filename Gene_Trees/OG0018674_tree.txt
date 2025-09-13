@@ -1,0 +1,1 @@
+((Ictidomys_tridecemlineatus_XP_040146287.1:0.328018,Ictidomys_tridecemlineatus_XP_005342371.2:0.112928):0.11548,(Loxodonta_africana_XP_023407689.1:0.0244685,Echinops_telfairi_XP_030741352.1:0.217122):0.11548);

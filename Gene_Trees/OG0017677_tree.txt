@@ -1,0 +1,1 @@
+(Mus_musculus_NP_001035953.1:0.0076355,((Homo_sapiens_NP_001375194.1:0,Homo_sapiens_NP_001375204.1:0):-0,(Homo_sapiens_NP_001375197.1:0,(Homo_sapiens_NP_001375203.1:0,(Homo_sapiens_NP_001375186.1:0,(Homo_sapiens_NP_001375191.1:0,(Homo_sapiens_NP_001375189.1:0,(Homo_sapiens_NP_001035951.1:0,Homo_sapiens_NP_001375200.1:0):0):0):0):0):0):0):0.0076355);

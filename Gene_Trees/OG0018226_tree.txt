@@ -1,0 +1,1 @@
+((((Saimiri_boliviensis_boliviensis_XP_003944100.1:0.217824,Homo_sapiens_NP_001381823.1:0.158989):0.156567,Microcebus_murinus_XP_012604978.1:0.390412):0.0780685,Sus_scrofa_XP_020950724.1:0.270609):0.03382,(Echinops_telfairi_XP_045148312.1:0.434701,Loxodonta_africana_XP_023399364.1:0.212527):0.03382);

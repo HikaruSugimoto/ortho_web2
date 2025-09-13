@@ -1,0 +1,1 @@
+(Loxodonta_africana_XP_023398511.1:0.232316,(Microcebus_murinus_XP_020140805.1:0.525664,(Urocitellus_parryii_XP_026238084.1:0.420219,(Canis_lupus_familiaris_XP_038442617.1:0.0742867,Canis_lupus_familiaris_XP_038442391.1:0.0465883):0.311464):0.0498661):0.232316);

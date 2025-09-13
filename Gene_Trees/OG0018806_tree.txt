@@ -1,0 +1,1 @@
+(Sarcophilus_harrisii_XP_023361011.2:0.128713,(Microcebus_murinus_XP_012628752.1:0.146748,(Ictidomys_tridecemlineatus_XP_040147686.1:0.0718358,Urocitellus_parryii_XP_026270591.1:0.0615142):0.101446):0.128713);

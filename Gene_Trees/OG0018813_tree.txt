@@ -1,0 +1,1 @@
+(Loxodonta_africana_XP_010585270.1:0.105659,(Saimiri_boliviensis_boliviensis_XP_039321477.1:0.374998,(Microcebus_murinus_XP_012609607.1:1.1682e-06,Microcebus_murinus_XP_012609605.1:0.428008):0.208297):0.105659);

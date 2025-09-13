@@ -1,0 +1,1 @@
+(Myotis_lucifugus_XP_006094697.1:0.0445559,(Sus_scrofa_XP_003129541.2:0.115908,(Ursus_americanus_XP_045638913.1:0.0219108,Canis_lupus_familiaris_NP_001375636.1:0.0217342):0.0148693):0.0445559);

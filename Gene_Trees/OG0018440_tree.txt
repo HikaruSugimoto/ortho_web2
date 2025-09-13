@@ -1,0 +1,1 @@
+((Urocitellus_parryii_XP_026259642.1:0.623321,Rattus_norvegicus_NP_001304035.1:0.913503):0.0706831,(Microcebus_murinus_XP_012616703.1:0.523789,(Saimiri_boliviensis_boliviensis_XP_039321621.1:0.704654,Homo_sapiens_NP_001139113.1:0.33881):0.0348637):0.0706831);

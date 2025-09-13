@@ -1,0 +1,1 @@
+(Canis_lupus_familiaris_XP_038444707.1:0.27577,(Urocitellus_parryii_XP_026253622.1:0.832391,(Microcebus_murinus_XP_020140556.1:0.192989,Saimiri_boliviensis_boliviensis_XP_039320593.1:0.263688):0.347871):0.27577);

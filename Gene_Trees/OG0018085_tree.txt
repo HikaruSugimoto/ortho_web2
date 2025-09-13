@@ -1,0 +1,1 @@
+(Homo_sapiens_XP_011529786.1:0.0347347,((Homo_sapiens_NP_004671.1:0,Homo_sapiens_NP_001003895.1:0):0.0242127,(Homo_sapiens_NP_001003894.1:1.29618e-07,((Homo_sapiens_NP_001001722.1:0,Homo_sapiens_NP_004816.1:0):0.026458,Homo_sapiens_NP_733841.1:0):8.696e-05):0.00947835):0.0347347);

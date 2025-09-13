@@ -1,0 +1,1 @@
+((Sarcophilus_harrisii_XP_003766745.1:0,Sarcophilus_harrisii_XP_031814934.1:0):0.119536,((Ictidomys_tridecemlineatus_XP_021576905.2:0.353131,Mesocricetus_auratus_XP_040586711.1:0.26591):0.034247,Loxodonta_africana_XP_010600829.1:0.222264):0.119536);

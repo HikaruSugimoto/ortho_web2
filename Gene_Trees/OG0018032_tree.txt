@@ -1,0 +1,1 @@
+(Sarcophilus_harrisii_XP_003766975.1:0.0174551,((Microcebus_murinus_XP_012607916.1:0.0249192,(Sus_scrofa_XP_003357392.1:0.105575,Saimiri_boliviensis_boliviensis_XP_039326260.1:0.354677):0.00754734):0.00442409,((Ursus_americanus_XP_045653506.1:0.047277,Canis_lupus_familiaris_NP_001375721.1:0.02761):0.00772747,Echinops_telfairi_XP_004717018.1:0.026642):0.00041734):0.0174551);

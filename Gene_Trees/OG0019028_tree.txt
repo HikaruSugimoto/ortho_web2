@@ -1,0 +1,1 @@
+(Urocitellus_parryii_XP_026238411.1:0.124255,((Urocitellus_parryii_XP_026238308.1:0.397818,Urocitellus_parryii_XP_026237063.1:0.453676):0.052881,Urocitellus_parryii_XP_026238408.1:0.0296256):0.124255);

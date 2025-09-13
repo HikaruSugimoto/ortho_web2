@@ -1,0 +1,1 @@
+((Mesocricetus_auratus_XP_040598261.1:0.0718084,Mesocricetus_auratus_XP_012979404.1:1.31759e-06):0.361452,((Rattus_norvegicus_NP_062566.3:1.31759e-06,Rattus_norvegicus_XP_063117627.1:0.0692104):0.219987,((Mus_musculus_NP_001004066.1:0.0582239,Mus_musculus_XP_036013432.1:0.0595441):0.0205135,Mus_musculus_NP_062511.2:1.31759e-06):0.144386):0.361452);

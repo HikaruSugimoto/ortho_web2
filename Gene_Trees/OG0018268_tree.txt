@@ -1,0 +1,1 @@
+(Ursus_americanus_XP_045628224.1:0.293947,(((Homo_sapiens_NP_060581.2:0.0914499,Saimiri_boliviensis_boliviensis_XP_010349484.2:0.322289):0.0131977,Microcebus_murinus_XP_012609859.1:0.375248):0.126764,(Ictidomys_tridecemlineatus_XP_005343158.1:0.0212027,Urocitellus_parryii_XP_026261995.1:0.00072831):0.376064):0.293947);

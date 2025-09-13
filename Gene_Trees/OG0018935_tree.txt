@@ -1,0 +1,1 @@
+(Mus_musculus_NP_001278217.1:0,(Mus_musculus_NP_001278218.1:0,(Mus_musculus_NP_001278216.1:0,Mus_musculus_XP_036009278.1:0):0.214923):0);

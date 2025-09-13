@@ -1,0 +1,1 @@
+(Canis_lupus_familiaris_XP_038427299.1:0.174561,(Microcebus_murinus_XP_012610573.1:0.244521,(Urocitellus_parryii_XP_026239125.1:0.0206094,Ictidomys_tridecemlineatus_XP_040131689.1:0.244423):0.322756):0.174561);

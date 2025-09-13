@@ -1,0 +1,1 @@
+(Homo_sapiens_NP_001316354.1:0.294455,((Ursus_americanus_XP_045642412.1:0.0883759,((Ursus_americanus_XP_045632752.1:0.886184,Ursus_americanus_XP_045670407.1:0.751633):0.166732,Ursus_americanus_XP_045644706.1:0.750622):0.133083):0.0771213,(Canis_lupus_familiaris_XP_038397076.1:0.304078,Canis_lupus_familiaris_XP_038394888.1:0.387767):0.0748568):0.294455);

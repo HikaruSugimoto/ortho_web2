@@ -1,0 +1,1 @@
+(Urocitellus_parryii_XP_026266675.1:0.075479,(Homo_sapiens_NP_001341713.1:2.3594e-07,((Homo_sapiens_NP_001341711.1:0,Homo_sapiens_NP_001341710.1:0):0.0006615,Homo_sapiens_NP_001341712.1:0.0183865):0.0662825):0.075479);

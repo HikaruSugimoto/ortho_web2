@@ -1,0 +1,1 @@
+(((Homo_sapiens_XP_047299031.1:0,Homo_sapiens_XP_024308349.1:0):0,Homo_sapiens_XP_047298998.1:0):0.471154,(Sus_scrofa_XP_020948758.1:0.458578,(Canis_lupus_familiaris_XP_038406282.1:0.0480653,(Ursus_americanus_XP_045635648.1:0.701727,Myotis_lucifugus_XP_023617999.1:0.520368):0.205869):0.304085):0.471154);

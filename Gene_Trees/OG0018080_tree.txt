@@ -1,0 +1,1 @@
+(Echinops_telfairi_XP_045147684.1:0.081834,(Homo_sapiens_NP_001269509.1:0.273845,(Homo_sapiens_NP_001244325.1:1.15662e-06,(Microcebus_murinus_XP_012627111.1:0.145383,(Rattus_norvegicus_XP_038950005.1:0.0863455,(Mesocricetus_auratus_XP_012973196.1:0.19428,Mesocricetus_auratus_XP_040589572.1:0.212451):0.01942):0.01735):0.0223474):0.0265936):0.081834);

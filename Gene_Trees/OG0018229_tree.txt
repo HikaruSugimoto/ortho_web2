@@ -1,0 +1,1 @@
+(Echinops_telfairi_XP_045150497.1:0.0267526,((Myotis_lucifugus_XP_014306445.2:0.40018,(Myotis_lucifugus_XP_023613958.1:2.87293e-06,Myotis_lucifugus_XP_023599414.1:1.20799):0.822316):0.242588,(Ictidomys_tridecemlineatus_XP_021579591.1:0.129041,Myotis_lucifugus_XP_006109093.1:0.33368):0.401112):0.0267526);

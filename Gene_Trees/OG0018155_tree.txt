@@ -1,0 +1,1 @@
+(((Mus_musculus_NP_001398093.1:0,(Mus_musculus_NP_001398095.1:0,Mus_musculus_NP_001398094.1:0):0):0,Mus_musculus_NP_001398096.1:0):0.417401,((Microcebus_murinus_XP_012596002.1:0,Microcebus_murinus_XP_012596016.1:0):0,Microcebus_murinus_XP_012596007.1:0):0.417401);

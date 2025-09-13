@@ -1,0 +1,1 @@
+((Mus_musculus_NP_001186250.1:0.994573,Urocitellus_parryii_XP_026238217.1:0.791433):0.295164,((Sus_scrofa_XP_013854374.1:0,Sus_scrofa_XP_020953081.1:0):0,Sus_scrofa_XP_013854375.1:0):0.295164);

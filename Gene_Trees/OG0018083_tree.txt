@@ -1,0 +1,1 @@
+(Echinops_telfairi_XP_045153305.1:0.169983,(Sus_scrofa_XP_001926510.1:0.119802,(((Mus_musculus_NP_001162062.1:0.131239,Rattus_norvegicus_NP_001382045.1:0.115079):0.0675539,Mesocricetus_auratus_XP_040600282.1:0.165372):0.290617,(Urocitellus_parryii_XP_026268904.1:0.0784642,Ictidomys_tridecemlineatus_XP_040138673.1:0.119511):0.0816699):0.0625439):0.169983);

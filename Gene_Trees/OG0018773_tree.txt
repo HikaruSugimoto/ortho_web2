@@ -1,0 +1,1 @@
+(Ictidomys_tridecemlineatus_XP_005323601.1:0.2775,(Mesocricetus_auratus_XP_040606216.1:8.34976e-07,(Mesocricetus_auratus_XP_040606213.1:0.172218,Mesocricetus_auratus_XP_040606215.1:0.119384):0.0263117):0.2775);

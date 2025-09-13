@@ -1,0 +1,1 @@
+(Sarcophilus_harrisii_XP_031797536.1:0.0106414,(Mesocricetus_auratus_XP_012967287.1:0.107719,(Mus_musculus_NP_001277054.1:4.24184e-07,(Saimiri_boliviensis_boliviensis_XP_003938154.1:0.272478,Mus_musculus_NP_001277053.1:4.24184e-07):0.00241875):0.0251232):0.0106414);

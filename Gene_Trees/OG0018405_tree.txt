@@ -1,0 +1,1 @@
+(Ursus_americanus_XP_045631297.1:0.305718,(((Canis_lupus_familiaris_XP_038444911.1:0,Canis_lupus_familiaris_XP_038443655.1:0):0.182737,Canis_lupus_familiaris_XP_038443654.1:9.72457e-07):0.201875,Canis_lupus_familiaris_XP_038444907.1:0.04594):0.305718);

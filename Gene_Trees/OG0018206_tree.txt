@@ -1,0 +1,1 @@
+((Loxodonta_africana_XP_023398570.1:0.179942,Loxodonta_africana_XP_010585763.1:0.352365):0.0712447,(Canis_lupus_familiaris_XP_038440899.1:0.272149,(Saimiri_boliviensis_boliviensis_XP_010329114.2:0.129055,(Homo_sapiens_NP_596870.2:2.88574e-06,Myotis_lucifugus_XP_023605222.1:1.28765):0.995017):0.118102):0.0712447);

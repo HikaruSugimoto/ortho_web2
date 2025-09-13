@@ -1,0 +1,1 @@
+(Ursus_americanus_XP_045647492.1:0.0920387,((Rattus_norvegicus_XP_063129789.1:0.0191701,Mus_musculus_NP_001383450.1:0.0213049):0.0409877,((Homo_sapiens_NP_001385408.1:0,(Homo_sapiens_NP_001383447.1:0,(Homo_sapiens_NP_001385409.1:0,Homo_sapiens_NP_001385405.1:0):0):0):-0,(Homo_sapiens_NP_001385406.1:0,Homo_sapiens_NP_001385407.1:0):0):0.0227107):0.0920387);

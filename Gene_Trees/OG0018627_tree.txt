@@ -1,0 +1,1 @@
+(Ictidomys_tridecemlineatus_XP_040127474.1:0.104372,(Ursus_americanus_XP_045628393.1:0.656879,(Canis_lupus_familiaris_XP_038383211.1:0.078392,Sus_scrofa_XP_020928433.1:0.139601):0.0235955):0.104372);

@@ -1,0 +1,1 @@
+(Canis_lupus_familiaris_XP_038388875.1:0.140402,(Urocitellus_parryii_XP_026243893.1:0.246614,(Mesocricetus_auratus_XP_040585303.1:0.717634,((Rattus_norvegicus_XP_038957881.1:0,Rattus_norvegicus_NP_001180204.1:0):0.0453886,Mus_musculus_NP_001180203.1:0.0795884):0.0662036):0.15945):0.140402);

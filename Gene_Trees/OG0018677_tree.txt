@@ -1,0 +1,1 @@
+(Echinops_telfairi_XP_045142487.1:0.0137287,(Rattus_norvegicus_XP_063130959.1:0.525828,(Homo_sapiens_NP_001381061.1:0,Ursus_americanus_XP_045630098.1:0):0.0022005):0.0137287);

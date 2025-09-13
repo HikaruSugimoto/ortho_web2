@@ -1,0 +1,1 @@
+(Sarcophilus_harrisii_XP_031800823.1:0.183573,((Urocitellus_parryii_XP_026268130.1:0.0483903,Ictidomys_tridecemlineatus_XP_013218274.1:0.0151617):0.0977352,Myotis_lucifugus_XP_014320768.1:0.103107):0.183573);

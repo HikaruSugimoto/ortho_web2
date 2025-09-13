@@ -1,0 +1,1 @@
+(Mesocricetus_auratus_XP_040603858.1:0.0593959,(Echinops_telfairi_XP_004718030.2:0.220812,(Echinops_telfairi_XP_004706247.1:0.0881806,Echinops_telfairi_XP_004706246.1:0.00676144):0.0936702):0.0593959);

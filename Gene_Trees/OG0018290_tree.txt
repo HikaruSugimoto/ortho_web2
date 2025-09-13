@@ -1,0 +1,1 @@
+((Sarcophilus_harrisii_XP_023353101.1:0,Sarcophilus_harrisii_XP_031792813.1:0):0.125295,(Loxodonta_africana_XP_023401121.1:0.26173,((Ictidomys_tridecemlineatus_XP_040142002.1:0.00522867,Urocitellus_parryii_XP_026236026.1:8.633e-05):0.113581,Mesocricetus_auratus_XP_012975022.2:0.168021):0.0747941):0.125295);

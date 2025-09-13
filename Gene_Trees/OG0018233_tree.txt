@@ -1,0 +1,1 @@
+(Sarcophilus_harrisii_XP_031823462.1:0.0667889,(Sus_scrofa_XP_020923099.1:0.115353,((Saimiri_boliviensis_boliviensis_XP_039332172.1:0.214205,Loxodonta_africana_XP_003414393.1:0.108745):0.00415888,(Myotis_lucifugus_XP_006102123.1:0.100158,Echinops_telfairi_XP_045155932.1:0.120981):0.00556213):0.00971463):0.0667889);

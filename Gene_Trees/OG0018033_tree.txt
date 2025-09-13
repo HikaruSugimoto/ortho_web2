@@ -1,0 +1,1 @@
+(((Homo_sapiens_XP_047276599.1:0,Homo_sapiens_NP_001004734.1:0):0.142666,(Canis_lupus_familiaris_NP_001375987.1:0.0486236,Ursus_americanus_XP_045634968.1:0.0269894):0.0781307):0.0184374,((Loxodonta_africana_XP_003422179.1:0.0291788,Loxodonta_africana_XP_010599784.1:0.0867402):0.0398469,Echinops_telfairi_XP_012861756.1:0.181031):0.0184374);

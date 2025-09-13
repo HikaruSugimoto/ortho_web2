@@ -1,0 +1,1 @@
+(Loxodonta_africana_XP_023409735.1:0.175101,((Ictidomys_tridecemlineatus_XP_040145037.1:0.0518827,Urocitellus_parryii_XP_026268784.1:0.537771):0.235032,Ictidomys_tridecemlineatus_XP_040143663.1:0.0804248):0.175101);

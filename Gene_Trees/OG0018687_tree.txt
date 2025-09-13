@@ -1,0 +1,1 @@
+(Echinops_telfairi_XP_045155794.1:0.225002,((Ursus_americanus_XP_045669977.1:0.163049,Homo_sapiens_NP_001382908.1:0.419427):0.0676463,Myotis_lucifugus_XP_023603548.1:0.73095):0.225002);

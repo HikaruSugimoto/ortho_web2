@@ -1,0 +1,1 @@
+(Saimiri_boliviensis_boliviensis_XP_010333558.1:0.14746,((Rattus_norvegicus_XP_038968847.2:0.217099,Mus_musculus_XP_017170456.1:0.198165):0.0796198,Urocitellus_parryii_XP_026257098.1:0.192162):0.14746);

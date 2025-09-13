@@ -1,0 +1,1 @@
+(Microcebus_murinus_XP_012638402.2:0.0445344,(Microcebus_murinus_XP_012602626.2:0.285915,((Microcebus_murinus_XP_020144796.1:1.28377,Microcebus_murinus_XP_020144821.1:0.122658):0.0972009,Microcebus_murinus_XP_012629260.1:0.192653):0.123301):0.0445344);

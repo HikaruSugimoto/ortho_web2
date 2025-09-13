@@ -1,0 +1,1 @@
+(Sarcophilus_harrisii_XP_023362871.2:0.360583,((Rattus_norvegicus_XP_063129876.1:0.108174,Rattus_norvegicus_XP_063129868.1:0.45347):0.397048,Urocitellus_parryii_XP_026236649.1:0.400378):0.360583);

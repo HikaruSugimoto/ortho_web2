@@ -1,0 +1,1 @@
+((Sus_scrofa_XP_020950307.1:0,(Sus_scrofa_XP_005664711.1:0,Sus_scrofa_XP_005664708.1:0):0):0.741748,(Sarcophilus_harrisii_XP_031819240.1:-0,(Sarcophilus_harrisii_XP_031819242.1:0,Sarcophilus_harrisii_XP_031819241.1:0):0):0.741748);

@@ -1,0 +1,1 @@
+((((Rattus_norvegicus_NP_775129.1:0,Rattus_norvegicus_XP_063128958.1:0):0.322237,Mus_musculus_NP_034103.2:0.338358):0.534284,Microcebus_murinus_XP_012641364.1:0.643505):0.210386,((Sus_scrofa_NP_001004030.1:0,Sus_scrofa_XP_020956156.1:0):0.296971,Myotis_lucifugus_XP_023600099.1:0.43691):0.210386);

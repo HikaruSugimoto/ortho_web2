@@ -1,0 +1,1 @@
+(Ictidomys_tridecemlineatus_XP_040124846.1:0.607965,(Loxodonta_africana_XP_023409203.1:1.14487,(Loxodonta_africana_XP_023411887.1:0.309635,Loxodonta_africana_XP_023411939.1:0.1175):0.348486):0.607965);

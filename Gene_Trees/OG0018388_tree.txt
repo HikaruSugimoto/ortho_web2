@@ -1,0 +1,1 @@
+(Sarcophilus_harrisii_XP_031801247.1:0.126402,(Echinops_telfairi_XP_045145102.1:0.0906778,((Canis_lupus_familiaris_XP_038408644.1:0.0732368,Sus_scrofa_XP_020921179.1:0.0774543):0.027893,Rattus_norvegicus_NP_074053.2:0.098872):0.006045):0.126402);

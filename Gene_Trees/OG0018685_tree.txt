@@ -1,0 +1,1 @@
+(Echinops_telfairi_XP_045152986.1:0.553732,((Mus_musculus_NP_001028455.2:0.473212,Mesocricetus_auratus_XP_021085412.1:0.302146):0.0532132,Sus_scrofa_XP_020941117.1:0.331051):0.553732);

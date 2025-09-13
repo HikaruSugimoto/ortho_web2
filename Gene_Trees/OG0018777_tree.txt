@@ -1,0 +1,1 @@
+((Saimiri_boliviensis_boliviensis_XP_039317706.1:0.0555742,Saimiri_boliviensis_boliviensis_XP_039317704.1:0.12848):0.433112,(Ictidomys_tridecemlineatus_XP_005341872.1:0.0311107,Urocitellus_parryii_XP_026266659.1:0.0181653):0.433112);

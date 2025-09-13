@@ -1,0 +1,1 @@
+(Loxodonta_africana_XP_003405021.2:0.0602565,(Ursus_americanus_XP_045634892.1:0.030316,(Ursus_americanus_XP_045634897.1:0.022328,Ursus_americanus_XP_045634904.1:0.07037):0.0006515):0.0602565);

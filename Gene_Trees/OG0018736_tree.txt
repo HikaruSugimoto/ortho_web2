@@ -1,0 +1,1 @@
+(Sus_scrofa_XP_020938635.1:0.413551,(Homo_sapiens_NP_001382206.1:0.410029,(Microcebus_murinus_XP_012615277.1:0.08154,Microcebus_murinus_XP_012615275.1:0.066448):0.342958):0.413551);

@@ -1,0 +1,1 @@
+((Ursus_americanus_XP_045629767.1:0.043688,(Ictidomys_tridecemlineatus_XP_021575404.2:1.54948e-06,Urocitellus_parryii_XP_026259971.1:0.387777):0.442989):0.0600987,(Canis_lupus_familiaris_XP_038395339.1:0.4741,Microcebus_murinus_XP_012614929.1:0.232625):0.0600987);

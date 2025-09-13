@@ -1,0 +1,1 @@
+(Echinops_telfairi_XP_045154863.1:0.0440089,(Homo_sapiens_NP_001382397.1:0.0509773,(Ursus_americanus_XP_045638377.1:0.00590925,Canis_lupus_familiaris_XP_038387426.1:0.284078):0.0239402):0.0440089);

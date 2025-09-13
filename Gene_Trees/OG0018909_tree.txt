@@ -1,0 +1,1 @@
+(Sus_scrofa_NP_999418.1:0.058489,(Microcebus_murinus_XP_012640196.1:0.071477,(Mus_musculus_NP_038665.1:0.0395035,Rattus_norvegicus_NP_001002850.1:0.0475585):0.168428):0.058489);

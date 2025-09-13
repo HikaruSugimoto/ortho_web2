@@ -1,0 +1,1 @@
+(Echinops_telfairi_XP_045147688.1:0.0602951,(Ictidomys_tridecemlineatus_XP_040144632.1:0.120869,(Saimiri_boliviensis_boliviensis_XP_039330208.1:0.0769423,Ursus_americanus_XP_045655398.1:0.119034):0.00956225):0.0602951);

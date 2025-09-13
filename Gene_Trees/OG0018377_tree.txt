@@ -1,0 +1,1 @@
+(((Canis_lupus_familiaris_XP_038384318.1:0.135987,Ursus_americanus_XP_045628227.1:0.393505):0.319126,Ictidomys_tridecemlineatus_XP_040134924.1:1.00231):0.0601123,(Homo_sapiens_NP_001318027.1:0.427574,Myotis_lucifugus_XP_023604780.1:1.28752):0.0601123);

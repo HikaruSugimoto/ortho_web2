@@ -1,0 +1,1 @@
+(Myotis_lucifugus_XP_023611805.1:0.298115,(Urocitellus_parryii_XP_026255072.1:0,(Urocitellus_parryii_XP_026255073.1:0,(Urocitellus_parryii_XP_026255071.1:0,Urocitellus_parryii_XP_026255074.1:0):0):0):0.298115);

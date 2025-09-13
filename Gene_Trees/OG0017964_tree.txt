@@ -1,0 +1,1 @@
+(Homo_sapiens_XP_047293995.1:0,((Homo_sapiens_XP_047293989.1:0,Homo_sapiens_XP_047294006.1:0):0,((Homo_sapiens_XP_047302688.1:0,(Homo_sapiens_XP_047302686.1:0,(Homo_sapiens_XP_047302690.1:0,Homo_sapiens_XP_047302689.1:0):0):0):0.159189,Homo_sapiens_XP_047293999.1:0):0):0);

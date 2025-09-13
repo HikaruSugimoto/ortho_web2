@@ -1,0 +1,1 @@
+(Canis_lupus_familiaris_XP_038381524.1:0.468027,(Mus_musculus_XP_030106053.1:1.24269,(Homo_sapiens_XP_047275600.1:0.767507,Saimiri_boliviensis_boliviensis_XP_010342594.2:0.867964):0.356374):0.468027);

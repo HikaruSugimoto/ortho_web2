@@ -1,0 +1,1 @@
+((Echinops_telfairi_XP_045155295.1:0,Echinops_telfairi_XP_045155296.1:0):0.512446,(Urocitellus_parryii_XP_026257141.1:0.50366,Ictidomys_tridecemlineatus_XP_040124459.1:1.41834e-06):0.512446);

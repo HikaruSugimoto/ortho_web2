@@ -1,0 +1,1 @@
+(Echinops_telfairi_XP_012863683.2:0.0379026,((Urocitellus_parryii_XP_026257460.1:0.0665417,Urocitellus_parryii_XP_026238402.1:0.0624603):0.0725052,Canis_lupus_familiaris_XP_038420429.1:0.0768387):0.0379026);

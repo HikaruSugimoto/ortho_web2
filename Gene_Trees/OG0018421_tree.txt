@@ -1,0 +1,1 @@
+((Loxodonta_africana_XP_010599652.1:0,Loxodonta_africana_XP_010599653.1:0):0.463083,(Echinops_telfairi_XP_045139810.1:0,(Echinops_telfairi_XP_045139811.1:0,Echinops_telfairi_XP_045139812.1:0):0):0.463083);

@@ -1,0 +1,1 @@
+(Sarcophilus_harrisii_XP_031805977.1:0.262357,((Rattus_norvegicus_NP_001188298.1:8.42488e-07,Rattus_norvegicus_XP_038953579.1:0.208648):0.064865,(Mus_musculus_XP_006531293.1:0,Mus_musculus_NP_065589.2:0):0.048272):0.262357);

@@ -1,0 +1,1 @@
+(Microcebus_murinus_XP_012596844.1:0.12144,(Saimiri_boliviensis_boliviensis_XP_003944454.2:0.233314,((Homo_sapiens_NP_001191743.1:0.0376257,Saimiri_boliviensis_boliviensis_XP_039321717.1:1.16821):0.171291,Homo_sapiens_NP_060122.2:1.95804e-06):0.137587):0.12144);

@@ -1,0 +1,1 @@
+(Loxodonta_africana_XP_023397593.1:0.224115,((Canis_lupus_familiaris_XP_038420418.1:0.180043,Ursus_americanus_XP_045631610.1:0.260406):0.169558,Sus_scrofa_XP_005660654.2:0.318842):0.224115);

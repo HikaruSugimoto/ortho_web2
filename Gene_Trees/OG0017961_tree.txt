@@ -1,0 +1,1 @@
+(Homo_sapiens_NP_789776.1:0.0138522,(Urocitellus_parryii_XP_026246668.1:0.0832605,(((Rattus_norvegicus_NP_001382598.1:0,Rattus_norvegicus_NP_001155885.1:0):0,Rattus_norvegicus_NP_001382597.1:0):0.003889,((Mus_musculus_NP_001413178.1:0,Mus_musculus_NP_038854.2:0):0,Mus_musculus_NP_001413179.1:0):0.025268):0.065347):0.0138522);

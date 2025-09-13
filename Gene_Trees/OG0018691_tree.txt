@@ -1,0 +1,1 @@
+(Homo_sapiens_NP_001289480.1:0,(Homo_sapiens_NP_001369287.1:0,(Homo_sapiens_NP_001013653.1:0.0886345,Homo_sapiens_NP_001130033.3:0.0387875):0.0747415):0);

@@ -1,0 +1,1 @@
+((Sus_scrofa_XP_020919624.1:0.797664,(Canis_lupus_familiaris_XP_038415542.1:0.112647,Ursus_americanus_XP_045648352.1:0.0459119):0.155833):0.0683297,(Microcebus_murinus_XP_012623625.1:0.133162,(Homo_sapiens_NP_001001661.1:0.115058,Saimiri_boliviensis_boliviensis_XP_003929883.2:0.148468):0.0961878):0.0683297);

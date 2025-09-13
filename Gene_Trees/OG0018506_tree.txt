@@ -1,0 +1,1 @@
+(Loxodonta_africana_XP_023401219.1:0.147701,(Saimiri_boliviensis_boliviensis_XP_039326125.1:0.080216,(Rattus_norvegicus_XP_063126968.1:0.035511,(Saimiri_boliviensis_boliviensis_XP_039325034.1:0.129954,Saimiri_boliviensis_boliviensis_XP_039323714.1:0.045634):0.135167):0.015541):0.147701);

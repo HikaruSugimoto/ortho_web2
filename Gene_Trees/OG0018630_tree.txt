@@ -1,0 +1,1 @@
+(Rattus_norvegicus_XP_038956982.1:0.192483,(Canis_lupus_familiaris_XP_038388804.1:0,(Canis_lupus_familiaris_XP_038388802.1:0,Canis_lupus_familiaris_XP_038388803.1:0):0):0.192483);

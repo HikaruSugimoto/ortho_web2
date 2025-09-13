@@ -1,0 +1,1 @@
+((Urocitellus_parryii_XP_026255609.1:0.00487963,Ictidomys_tridecemlineatus_XP_040147033.1:0.0209974):0.162116,((Mus_musculus_NP_766507.2:0.0107865,(Rattus_norvegicus_NP_001128057.1:4.8351e-07,Rattus_norvegicus_XP_006242709.1:0.0371545):0.0073265):0.045843,Mesocricetus_auratus_XP_005078630.1:0.0361617):0.162116);

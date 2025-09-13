@@ -1,0 +1,1 @@
+((Ursus_americanus_XP_045645147.1:0.297131,Canis_lupus_familiaris_XP_038444774.1:0.535271):0.110468,(Ictidomys_tridecemlineatus_XP_040145013.1:0.4611,((Mesocricetus_auratus_XP_040599873.1:0.13708,Mesocricetus_auratus_XP_040599720.1:0.0537212):0.184392,Rattus_norvegicus_XP_017457910.1:0.152099):0.419796):0.110468);

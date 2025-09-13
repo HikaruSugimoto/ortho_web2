@@ -1,0 +1,1 @@
+((Loxodonta_africana_XP_003420849.1:0.176208,((Sus_scrofa_XP_013853744.1:0,Sus_scrofa_NP_001265694.1:0):0.104665,(Ictidomys_tridecemlineatus_XP_005330715.1:0.0044996,Urocitellus_parryii_XP_026247081.1:0.0215374):0.115294):0.0182532):0.012385,((Echinops_telfairi_XP_004715916.1:0,Echinops_telfairi_XP_045148941.1:0):0.123894,Ursus_americanus_XP_045652612.1:0.169492):0.012385);

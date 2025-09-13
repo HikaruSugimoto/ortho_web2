@@ -1,0 +1,1 @@
+(Sus_scrofa_XP_020944327.1:0,(Homo_sapiens_NP_001317530.1:0,(Rattus_norvegicus_XP_038935445.1:0.003252,Homo_sapiens_NP_001350892.1:0):0):0);

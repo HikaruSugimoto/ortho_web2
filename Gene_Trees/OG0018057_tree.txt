@@ -1,0 +1,1 @@
+((Ursus_americanus_XP_045652669.1:0.462891,(Rattus_norvegicus_XP_017455397.1:0.273751,(Canis_lupus_familiaris_XP_038428986.1:0.0440222,Sus_scrofa_XP_020921044.1:1.37072):0.465794):0.244285):0.155508,(Mus_musculus_XP_017171829.1:0.0979281,(Ursus_americanus_XP_045653112.1:0.982022,Microcebus_murinus_XP_012594637.1:4.53016e-06):0.311119):0.155508);

@@ -1,0 +1,1 @@
+(Echinops_telfairi_XP_030743297.2:0.108485,((Urocitellus_parryii_XP_026258749.1:0.127841,Ictidomys_tridecemlineatus_XP_005329700.2:0.0876203):0.129517,(Sus_scrofa_XP_020929336.1:0.137281,Microcebus_murinus_XP_020138689.1:0.0878787):0.0668728):0.108485);

@@ -1,0 +1,1 @@
+(Sarcophilus_harrisii_XP_031813926.1:0.305644,(((Ursus_americanus_XP_045633467.1:0.0280497,Urocitellus_parryii_XP_026246082.1:0.0173043):0.0314408,Myotis_lucifugus_XP_006082572.1:0.0293118):0.0529068,Loxodonta_africana_XP_010600329.1:0.0640015):0.305644);

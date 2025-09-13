@@ -1,0 +1,1 @@
+(Mesocricetus_auratus_XP_040592441.1:0.0749477,((Homo_sapiens_NP_001287686.1:0,Homo_sapiens_NP_001287687.1:0):0.0139725,(Homo_sapiens_NP_001287682.1:0,Homo_sapiens_NP_001287684.1:0):0.0399005):0.0749477);

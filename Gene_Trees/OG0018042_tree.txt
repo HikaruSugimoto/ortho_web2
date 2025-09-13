@@ -1,0 +1,1 @@
+(((((Ursus_americanus_XP_045669368.1:0,Ursus_americanus_XP_045669369.1:0):0,Ursus_americanus_XP_045669367.1:0):0.165117,Canis_lupus_familiaris_XP_038395456.1:0.140329):0.151584,Sus_scrofa_XP_020941712.1:0.569585):0.0361729,(Microcebus_murinus_XP_012614838.2:0.28544,Ictidomys_tridecemlineatus_XP_040132725.1:0.403277):0.0361729);

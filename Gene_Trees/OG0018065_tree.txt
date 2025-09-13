@@ -1,0 +1,1 @@
+((Echinops_telfairi_XP_004697294.2:0.0951024,Loxodonta_africana_XP_003405020.2:0.0633346):0.0208652,(Ursus_americanus_XP_045634891.1:0.086299,(Ictidomys_tridecemlineatus_XP_040129256.1:0.171827,((Mus_musculus_NP_001011743.2:0.0668863,Mesocricetus_auratus_XP_005067781.3:0.0797967):0.0139169,Rattus_norvegicus_NP_001000778.1:0.0477866):0.0627051):0.0277042):0.0208652);

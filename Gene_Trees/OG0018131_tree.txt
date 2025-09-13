@@ -1,0 +1,1 @@
+(Ursus_americanus_XP_045656680.1:0.3601,(Saimiri_boliviensis_boliviensis_XP_039327481.1:0.229973,((Mesocricetus_auratus_XP_021081009.2:0.316898,(Mus_musculus_NP_032160.1:0.193134,Rattus_norvegicus_NP_036926.2:0.155846):0.0941333):0.419086,(Ictidomys_tridecemlineatus_XP_040137770.1:0.298826,Urocitellus_parryii_XP_026254400.1:0.608956):0.379621):0.288743):0.3601);

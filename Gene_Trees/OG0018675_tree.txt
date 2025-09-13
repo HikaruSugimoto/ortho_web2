@@ -1,0 +1,1 @@
+(Echinops_telfairi_XP_045139737.1:0.147441,(Myotis_lucifugus_XP_014318039.2:0.377887,(Mus_musculus_NP_958798.2:0.389246,Mus_musculus_NP_958797.2:0.108197):0.158513):0.147441);

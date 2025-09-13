@@ -1,0 +1,1 @@
+(Homo_sapiens_NP_001271200.1:0.311804,((Loxodonta_africana_XP_010600328.1:0,Loxodonta_africana_XP_010600304.1:0):0,Loxodonta_africana_XP_010600365.1:0):0.311804);

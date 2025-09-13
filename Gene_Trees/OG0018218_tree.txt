@@ -1,0 +1,1 @@
+(((Homo_sapiens_NP_001342150.1:0.372169,Mesocricetus_auratus_XP_040599248.1:0.126272):0.140845,Echinops_telfairi_XP_045141155.1:0.0808948):0.0424756,(Myotis_lucifugus_XP_006109205.1:1.21737e-06,(Echinops_telfairi_XP_045146612.1:0.0983217,Echinops_telfairi_XP_012860174.1:0.289798):0.0324677):0.0424756);

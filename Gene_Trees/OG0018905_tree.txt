@@ -1,0 +1,1 @@
+(Sarcophilus_harrisii_XP_031809223.1:0.157163,(Ursus_americanus_XP_045664781.1:0.197026,(Microcebus_murinus_XP_012598172.1:0,Microcebus_murinus_XP_020141811.1:0):0.003373):0.157163);

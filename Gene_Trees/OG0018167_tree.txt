@@ -1,0 +1,1 @@
+(((Myotis_lucifugus_XP_014316577.1:1.98484e-06,Myotis_lucifugus_XP_014316576.1:0.213264):0.348624,Urocitellus_parryii_XP_026236777.1:0.19513):0.132913,(Sus_scrofa_XP_020940144.1:0.329059,((Rattus_norvegicus_XP_063136818.1:0,Rattus_norvegicus_XP_063136819.1:0):0,Rattus_norvegicus_XP_063136820.1:0):0.696335):0.132913);

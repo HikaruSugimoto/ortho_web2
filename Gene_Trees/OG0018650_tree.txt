@@ -1,0 +1,1 @@
+(Canis_lupus_familiaris_XP_038432043.1:0.119095,((Ictidomys_tridecemlineatus_XP_040137890.1:0,Ictidomys_tridecemlineatus_XP_040137891.1:0):0.246369,Microcebus_murinus_XP_012615862.1:0.212113):0.119095);

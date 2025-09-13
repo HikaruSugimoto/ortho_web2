@@ -1,0 +1,1 @@
+(((Mus_musculus_NP_001028406.1:1.05831,Ictidomys_tridecemlineatus_XP_021578019.1:0.68198):0.35915,Microcebus_murinus_XP_012595085.1:0.438196):0.140178,(Canis_lupus_familiaris_XP_038442526.1:0.254395,Ursus_americanus_XP_045643401.1:0.356704):0.140178);

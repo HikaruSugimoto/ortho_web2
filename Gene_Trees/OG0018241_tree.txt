@@ -1,0 +1,1 @@
+(Sus_scrofa_XP_013834407.2:0.00300125,((Mus_musculus_NP_035228.2:0,Mus_musculus_XP_006501194.1:0):0.0078685,((Homo_sapiens_NP_001191326.1:0,Homo_sapiens_NP_700475.1:0):0,Homo_sapiens_NP_001191327.1:0):0.0041405):0.00300125);

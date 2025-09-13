@@ -1,0 +1,1 @@
+(Mus_musculus_NP_997431.2:0.0094835,(Mus_musculus_NP_001160190.1:0.029864,(Mus_musculus_NP_001349079.1:0,Mus_musculus_NP_109660.1:0):0.017028):0.0094835);

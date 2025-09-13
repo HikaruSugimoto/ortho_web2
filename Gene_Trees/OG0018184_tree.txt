@@ -1,0 +1,1 @@
+((Ursus_americanus_XP_045653246.1:0.141581,Canis_lupus_familiaris_XP_038392756.1:0.105487):0.0162767,(((Saimiri_boliviensis_boliviensis_XP_039331829.1:0.147044,Homo_sapiens_NP_998762.1:0.043266):0.0241434,Homo_sapiens_NP_001291876.1:0.0295708):0.0322745,Microcebus_murinus_XP_012630795.1:0.0807106):0.0162767);

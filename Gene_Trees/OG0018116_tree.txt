@@ -1,0 +1,1 @@
+(((Rattus_norvegicus_NP_001316071.1:0.0918261,(Mesocricetus_auratus_XP_012980787.1:0.0975063,Mus_musculus_NP_001170898.1:0.121826):0.0335654):0.255924,Ictidomys_tridecemlineatus_XP_005336542.1:0.289802):0.0284879,(Microcebus_murinus_XP_012630683.1:0.495529,(Saimiri_boliviensis_boliviensis_XP_010329284.1:0.0555878,Homo_sapiens_NP_689574.1:0.0337512):0.253817):0.0284879);

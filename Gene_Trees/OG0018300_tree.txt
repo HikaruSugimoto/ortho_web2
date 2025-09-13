@@ -1,0 +1,1 @@
+(Loxodonta_africana_XP_023398631.1:0.0805279,(Microcebus_murinus_XP_020142960.1:0.139062,(((Rattus_norvegicus_NP_001032616.1:0.445449,Urocitellus_parryii_XP_026256654.1:0.171314):0.0619131,Myotis_lucifugus_XP_023613483.1:0.473279):0.0696029,Sus_scrofa_XP_020954472.1:0.297555):0.0149924):0.0805279);

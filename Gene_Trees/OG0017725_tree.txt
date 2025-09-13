@@ -1,0 +1,1 @@
+((Myotis_lucifugus_XP_006105895.1:0,(Myotis_lucifugus_XP_014303404.1:0,Myotis_lucifugus_XP_014303403.1:0):0):0.202809,((Sus_scrofa_XP_005656278.2:0,(Sus_scrofa_XP_020955493.1:0,(Sus_scrofa_XP_020955490.1:0,Sus_scrofa_XP_020955488.1:0):0):0):-0,(Sus_scrofa_XP_020955492.1:0,(Sus_scrofa_XP_020955489.1:0,Sus_scrofa_XP_020955491.1:0):0):0):0.202809);

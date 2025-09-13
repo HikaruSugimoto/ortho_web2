@@ -1,0 +1,1 @@
+(Ursus_americanus_XP_045666567.1:0.257013,(Microcebus_murinus_XP_012610082.1:0.534904,(Homo_sapiens_XP_024307646.1:5e-07,Homo_sapiens_NP_872390.2:5e-07):0.54914):0.257013);

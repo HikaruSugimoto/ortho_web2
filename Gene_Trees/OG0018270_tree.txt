@@ -1,0 +1,1 @@
+(Loxodonta_africana_XP_023403376.1:0.388524,(Ursus_americanus_XP_045663098.1:0.759976,(Microcebus_murinus_XP_020135977.1:0.553626,(Ictidomys_tridecemlineatus_XP_021588229.1:0.963482,(Saimiri_boliviensis_boliviensis_XP_003945239.2:0.246584,Homo_sapiens_NP_859078.1:0.0351218):0.195033):0.0479239):0.0721619):0.388524);

@@ -1,0 +1,1 @@
+(Loxodonta_africana_XP_023397457.1:0.43314,((((Saimiri_boliviensis_boliviensis_XP_039316354.1:0.450826,Saimiri_boliviensis_boliviensis_XP_039316350.1:0.0115759):0.591063,Ictidomys_tridecemlineatus_XP_040134526.1:1.15901):0.0887767,Sus_scrofa_XP_020943634.1:1.0456):0.127703,Ictidomys_tridecemlineatus_XP_040134525.1:1.39926):0.43314);

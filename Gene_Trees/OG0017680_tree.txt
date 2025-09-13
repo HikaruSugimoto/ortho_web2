@@ -1,0 +1,1 @@
+(Homo_sapiens_XP_016879080.1:2.5e-07,(Homo_sapiens_XP_016885613.1:5e-07,((Homo_sapiens_NP_001316995.1:0,(Homo_sapiens_NP_001230651.1:0,(Homo_sapiens_NP_001316990.1:0,(Homo_sapiens_NP_057296.1:0,(Homo_sapiens_NP_001355166.1:0,Homo_sapiens_NP_001355160.1:0):0):0):0):0):0,(Homo_sapiens_NP_001093157.1:0,Homo_sapiens_NP_001192188.1:0):0):0.155658):2.5e-07);

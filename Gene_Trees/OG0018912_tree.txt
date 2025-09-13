@@ -1,0 +1,1 @@
+(Saimiri_boliviensis_boliviensis_XP_039326294.1:0.408691,(Microcebus_murinus_XP_020142405.1:0.568497,(Microcebus_murinus_XP_020142399.1:0.757143,Microcebus_murinus_XP_020142398.1:0.50697):0.056396):0.408691);

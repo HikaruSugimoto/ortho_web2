@@ -1,0 +1,1 @@
+((Canis_lupus_familiaris_XP_038418386.1:0.0802718,Ursus_americanus_XP_045643035.1:0.0959182):0.0259756,(Mesocricetus_auratus_XP_005063869.1:0.0328064,Mus_musculus_NP_001011775.1:0.0487246):0.0259756);

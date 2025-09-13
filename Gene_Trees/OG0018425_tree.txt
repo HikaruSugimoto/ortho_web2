@@ -1,0 +1,1 @@
+(Echinops_telfairi_XP_045154465.1:0.532679,(Urocitellus_parryii_XP_026264847.1:0.814913,(Saimiri_boliviensis_boliviensis_XP_010340087.1:0.602224,(Homo_sapiens_NP_001093155.1:0.00481425,Homo_sapiens_NP_115887.1:0.00577575):0.538258):0.337736):0.532679);

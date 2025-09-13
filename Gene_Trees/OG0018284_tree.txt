@@ -1,0 +1,1 @@
+(Sus_scrofa_XP_005654339.2:0.12269,(((Microcebus_murinus_XP_012611551.1:0,Microcebus_murinus_XP_012611549.1:0):0,Microcebus_murinus_XP_012611550.1:0):0.15714,(Ictidomys_tridecemlineatus_XP_021590349.1:0.107997,Urocitellus_parryii_XP_026235462.1:0.083069):0.180343):0.12269);

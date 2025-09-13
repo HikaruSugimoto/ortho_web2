@@ -1,0 +1,1 @@
+(((Mesocricetus_auratus_XP_040597243.1:0.00240437,Mesocricetus_auratus_XP_040597068.1:0.00090963):0.846478,Sarcophilus_harrisii_XP_031805005.1:1.67633e-06):0.230785,((Sarcophilus_harrisii_XP_031805077.1:0.059362,Sarcophilus_harrisii_XP_031805076.1:0.078992):0.183213,Mesocricetus_auratus_XP_040597117.1:0.370896):0.230785);

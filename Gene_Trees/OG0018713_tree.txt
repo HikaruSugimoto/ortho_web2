@@ -1,0 +1,1 @@
+(Loxodonta_africana_XP_023405726.1:0.0922266,(Rattus_norvegicus_XP_038961630.1:0.0314617,(Homo_sapiens_NP_001269955.1:0.0154975,Homo_sapiens_XP_047296313.1:0.106159):0.0219997):0.0922266);

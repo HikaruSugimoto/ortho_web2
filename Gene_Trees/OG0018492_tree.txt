@@ -1,0 +1,1 @@
+(Loxodonta_africana_XP_010587619.2:0.272525,((Sus_scrofa_XP_020929680.1:2.13215e-06,Sus_scrofa_XP_020929681.1:0.516267):0.274286,(Mesocricetus_auratus_XP_040596808.1:0.170346,Ictidomys_tridecemlineatus_XP_040129209.1:0.593037):0.116744):0.272525);

@@ -1,0 +1,1 @@
+(((Rattus_norvegicus_XP_063123878.1:0.236632,Mesocricetus_auratus_XP_040608745.1:0.220463):0.379392,Homo_sapiens_NP_001382165.1:0.147052):0.0396924,(Myotis_lucifugus_XP_014318696.1:0.225782,Ursus_americanus_XP_045631288.1:0.196807):0.0396924);

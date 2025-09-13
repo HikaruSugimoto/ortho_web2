@@ -1,0 +1,1 @@
+((Microcebus_murinus_XP_020139165.1:0.342122,Homo_sapiens_NP_001127840.1:0.0231055):0.0140862,(Mus_musculus_NP_001397380.1:0,Mus_musculus_NP_001397381.1:0):0.0140862);

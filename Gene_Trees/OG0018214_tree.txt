@@ -1,0 +1,1 @@
+(Sarcophilus_harrisii_XP_031805874.1:0.126792,(Myotis_lucifugus_XP_014313404.1:0.251504,((Rattus_norvegicus_XP_006255660.1:0.0615363,Mus_musculus_NP_082860.2:0.0415468):0.165714,(Loxodonta_africana_XP_010595161.1:0.312098,Echinops_telfairi_XP_004704620.1:0.135377):0.0397386):0.0156091):0.126792);

@@ -1,0 +1,1 @@
+(Loxodonta_africana_XP_010586197.1:0.251695,((Urocitellus_parryii_XP_026254323.1:0.229652,(Sus_scrofa_NP_998900.2:0.25825,Homo_sapiens_NP_478102.2:0.181398):0.0361629):0.361618,Mus_musculus_NP_034007.1:0.765586):0.251695);

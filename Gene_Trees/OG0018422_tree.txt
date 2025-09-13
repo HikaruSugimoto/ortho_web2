@@ -1,0 +1,1 @@
+(Echinops_telfairi_XP_045147946.1:0.104157,(Rattus_norvegicus_XP_038957642.1:0.147468,(Ictidomys_tridecemlineatus_XP_040143364.1:0.0481125,(Ictidomys_tridecemlineatus_XP_040124892.1:0.143251,Ictidomys_tridecemlineatus_XP_040143366.1:0.00181481):0.105039):0.217542):0.104157);

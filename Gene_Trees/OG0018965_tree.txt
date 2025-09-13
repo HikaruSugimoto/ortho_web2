@@ -1,0 +1,1 @@
+(Rattus_norvegicus_XP_063136445.1:0.0848675,(Myotis_lucifugus_XP_014319575.2:0.18385,(Ursus_americanus_XP_045641030.1:1.03581e-06,Ursus_americanus_XP_045651936.1:0.500689):0.191363):0.0848675);

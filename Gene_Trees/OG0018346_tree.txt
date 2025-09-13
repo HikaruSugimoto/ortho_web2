@@ -1,0 +1,1 @@
+(Myotis_lucifugus_XP_023605039.1:0.106269,(Myotis_lucifugus_XP_023604148.1:0.007407,((Myotis_lucifugus_XP_023603097.1:0.140123,(Myotis_lucifugus_XP_023604987.1:0.0117291,Myotis_lucifugus_XP_023601938.1:0.0356129):0.00154375):0.0116565,Myotis_lucifugus_XP_023601939.1:0.168262):0.0157352):0.106269);

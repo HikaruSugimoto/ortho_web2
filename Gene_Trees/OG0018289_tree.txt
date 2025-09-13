@@ -1,0 +1,1 @@
+(Loxodonta_africana_XP_023397414.1:0.098482,((Urocitellus_parryii_XP_026271082.1:0.147523,Microcebus_murinus_XP_020138302.1:0.387938):0.10469,(Myotis_lucifugus_XP_014306079.2:0.259861,(Ictidomys_tridecemlineatus_XP_040137942.1:0.271591,Urocitellus_parryii_XP_026238674.1:0.13027):0.215131):0.0328305):0.098482);

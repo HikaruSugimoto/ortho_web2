@@ -1,0 +1,1 @@
+(Loxodonta_africana_XP_023410101.1:0.113881,((Sus_scrofa_XP_020951643.1:0.15341,Myotis_lucifugus_XP_023618543.1:0.18531):0.0436493,(Saimiri_boliviensis_boliviensis_XP_010345867.2:0.207759,(Ictidomys_tridecemlineatus_XP_021576038.1:0.22584,(Mesocricetus_auratus_XP_012979320.1:0.194684,Rattus_norvegicus_NP_001278312.1:0.157226):0.178174):0.0424208):0.0217544):0.113881);

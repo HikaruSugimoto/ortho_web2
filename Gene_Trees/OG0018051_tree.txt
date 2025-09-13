@@ -1,0 +1,1 @@
+(Loxodonta_africana_XP_023415768.1:0.330955,((Homo_sapiens_XP_006724384.1:0.0572297,Homo_sapiens_NP_085145.1:0.100598):0.264149,((Canis_lupus_familiaris_XP_038406646.1:0.439277,Myotis_lucifugus_XP_023612990.1:0.568672):0.107865,(Microcebus_murinus_XP_012642540.1:0,Microcebus_murinus_XP_012642539.1:0):0.36234):0.0448454):0.330955);

@@ -1,0 +1,1 @@
+((Ictidomys_tridecemlineatus_XP_005319570.1:0.0055675,Urocitellus_parryii_XP_026235478.1:0.0156305):0.435199,(Canis_lupus_familiaris_XP_038442523.1:0,Canis_lupus_familiaris_XP_038442522.1:0):0.435199);

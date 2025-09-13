@@ -1,0 +1,1 @@
+((Homo_sapiens_NP_063916.1:0.0393732,Urocitellus_parryii_XP_026237736.1:0.0400677):0.388012,(Sarcophilus_harrisii_XP_031800586.1:0.0111743,Sarcophilus_harrisii_XP_031800583.1:0.0827897):0.388012);

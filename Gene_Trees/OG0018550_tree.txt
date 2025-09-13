@@ -1,0 +1,1 @@
+(((Microcebus_murinus_XP_012597530.1:5e-07,Microcebus_murinus_XP_012597531.1:5e-07):0,Microcebus_murinus_XP_012597529.1:5e-07):0.218314,(Sus_scrofa_XP_013832977.1:0,Sus_scrofa_XP_013832976.1:0):0.218314);

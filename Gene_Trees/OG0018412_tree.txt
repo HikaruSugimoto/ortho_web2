@@ -1,0 +1,1 @@
+((Echinops_telfairi_XP_004716612.2:0.187892,Loxodonta_africana_XP_023409947.1:0.286714):0.0556182,(Ursus_americanus_XP_045640603.1:0.216261,(Ictidomys_tridecemlineatus_XP_040143210.1:1.32948e-06,Urocitellus_parryii_XP_026237623.1:0.317052):0.22397):0.0556182);

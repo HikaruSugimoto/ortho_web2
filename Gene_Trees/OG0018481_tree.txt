@@ -1,0 +1,1 @@
+(Sarcophilus_harrisii_XP_003759445.2:0.0715099,(Mus_musculus_NP_080027.1:0.112759,(Microcebus_murinus_XP_012639516.1:0.0391471,(Urocitellus_parryii_XP_026246656.1:0.00375288,Ictidomys_tridecemlineatus_XP_005319729.1:0.00413313):0.0386974):0.00449738):0.0715099);

@@ -1,0 +1,1 @@
+((Echinops_telfairi_XP_004703774.2:0.327585,Loxodonta_africana_XP_023401221.1:0.288176):0.051549,(Sus_scrofa_NP_001137181.1:0.10304,(Urocitellus_parryii_XP_026241756.1:0.0792241,Mesocricetus_auratus_XP_021091789.1:0.163716):0.0153102):0.051549);

@@ -1,0 +1,1 @@
+(Rattus_norvegicus_XP_063144673.1:0,(Rattus_norvegicus_XP_063144672.1:0,(Rattus_norvegicus_XP_063144671.1:0,Rattus_norvegicus_XP_063144670.1:0):0):0);

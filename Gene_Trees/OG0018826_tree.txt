@@ -1,0 +1,1 @@
+(Loxodonta_africana_XP_023412235.1:0.0249806,(Myotis_lucifugus_XP_023599629.1:0.0445438,(Myotis_lucifugus_XP_023609631.1:0.30839,Mesocricetus_auratus_XP_040606060.1:0.246159):0.178003):0.0249806);

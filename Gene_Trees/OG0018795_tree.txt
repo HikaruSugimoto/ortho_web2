@@ -1,0 +1,1 @@
+(Ictidomys_tridecemlineatus_XP_040129187.1:0.505913,(Mesocricetus_auratus_XP_040603642.1:0.28497,(Mus_musculus_NP_001361095.1:0.0386405,Mus_musculus_NP_001361094.1:0.0232985):0.405353):0.505913);

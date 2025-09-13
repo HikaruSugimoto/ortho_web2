@@ -1,0 +1,1 @@
+(Canis_lupus_familiaris_XP_038392521.1:0.102681,(Ictidomys_tridecemlineatus_XP_005332802.1:0.0733152,(Mesocricetus_auratus_XP_040603979.1:0.129785,(Rattus_norvegicus_NP_001100484.1:0.0402983,(Mus_musculus_XP_006532097.1:0.0223544,Mus_musculus_NP_663717.1:5.362e-05):0.0516752):0.0185247):0.055474):0.102681);

@@ -1,0 +1,1 @@
+(Saimiri_boliviensis_boliviensis_XP_039316916.1:0.086971,((Mus_musculus_NP_075729.2:0,(Mus_musculus_NP_001272358.1:0,Mus_musculus_NP_001272359.1:0):0):0,Mus_musculus_NP_001398899.1:0):0.086971);

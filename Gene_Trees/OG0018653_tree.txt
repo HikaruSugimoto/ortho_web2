@@ -1,0 +1,1 @@
+(Canis_lupus_familiaris_XP_038438061.1:0.14122,(Rattus_norvegicus_XP_063121394.1:0.011011,(Homo_sapiens_NP_001305670.1:0,Homo_sapiens_NP_001305669.1:0):0.000565):0.14122);

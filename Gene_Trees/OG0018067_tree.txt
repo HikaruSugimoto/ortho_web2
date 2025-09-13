@@ -1,0 +1,1 @@
+(Echinops_telfairi_XP_004701247.1:0.0574861,((Rattus_norvegicus_NP_001155880.1:0.021682,Mus_musculus_NP_001007269.1:0.043729):0.0346643,(((Mesocricetus_auratus_XP_040591900.1:0.276205,Ursus_americanus_XP_045639605.1:0.0411946):0.203719,Ictidomys_tridecemlineatus_XP_040127895.1:0.0302427):0.0184849,Homo_sapiens_NP_001007272.1:0.0470599):0.0061507):0.0574861);

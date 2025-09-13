@@ -1,0 +1,1 @@
+(Loxodonta_africana_XP_023398153.1:0,((Loxodonta_africana_XP_023398144.1:0,Loxodonta_africana_XP_023398147.1:0):0,(Loxodonta_africana_XP_023398145.1:0,Loxodonta_africana_XP_023398151.1:0):0):0);

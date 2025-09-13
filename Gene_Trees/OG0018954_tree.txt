@@ -1,0 +1,1 @@
+(Rattus_norvegicus_NP_001000798.1:0.0632334,(Mus_musculus_NP_997548.1:0.0323392,(Mus_musculus_NP_666718.1:0.0816321,Mus_musculus_NP_667040.2:0.0314369):0.0144893):0.0632334);

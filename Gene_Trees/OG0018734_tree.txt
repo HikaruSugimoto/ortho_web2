@@ -1,0 +1,1 @@
+(Ictidomys_tridecemlineatus_XP_040147587.1:0.050956,(Homo_sapiens_NP_001358294.1:0,(Homo_sapiens_NP_001358296.1:0,Homo_sapiens_NP_001358295.1:0):0):0.050956);

@@ -1,0 +1,1 @@
+(Homo_sapiens_NP_001403060.1:0.0268008,(Rattus_norvegicus_XP_063118871.1:0.0437195,(Mus_musculus_NP_001403073.1:0,Mus_musculus_NP_001403074.1:0):0.0126475):0.0268008);

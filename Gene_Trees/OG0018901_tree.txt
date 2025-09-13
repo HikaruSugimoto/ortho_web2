@@ -1,0 +1,1 @@
+(Myotis_lucifugus_XP_023611326.1:0.773116,(Microcebus_murinus_XP_020143599.1:1.12611,(Microcebus_murinus_XP_012592151.1:3.51663e-06,Microcebus_murinus_XP_012592149.1:0.0428227):0.81671):0.773116);

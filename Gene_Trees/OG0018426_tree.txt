@@ -1,0 +1,1 @@
+(Echinops_telfairi_XP_045155715.1:0.292657,(Ictidomys_tridecemlineatus_XP_040131347.1:0.228287,(Urocitellus_parryii_XP_026238507.1:0.321303,(Microcebus_murinus_XP_020136654.1:0.199786,Urocitellus_parryii_XP_026267685.1:0.241819):0.194449):0.157629):0.292657);

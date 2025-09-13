@@ -1,0 +1,1 @@
+(Echinops_telfairi_XP_045151441.1:0.11847,(Myotis_lucifugus_XP_023599242.1:0.355879,((Canis_lupus_familiaris_XP_038428919.1:0.308043,Ursus_americanus_XP_045660560.1:0.0949718):0.0417275,(Urocitellus_parryii_XP_026239117.1:0.0186721,Ictidomys_tridecemlineatus_XP_013216002.1:0.0106069):0.284571):0.0341103):0.11847);

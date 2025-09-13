@@ -1,0 +1,1 @@
+((((Myotis_lucifugus_XP_014318160.1:0.15068,Ursus_americanus_XP_045644296.1:0.116286):0.0152065,Sus_scrofa_XP_020943020.1:0.117089):0.031091,Echinops_telfairi_XP_004696491.1:0.180645):0.222098,(Sarcophilus_harrisii_XP_031798107.1:1.10487e-06,Sarcophilus_harrisii_XP_031798106.1:0.0567431):0.222098);

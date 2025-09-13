@@ -1,0 +1,1 @@
+(Sarcophilus_harrisii_XP_003773417.1:0.366277,((Saimiri_boliviensis_boliviensis_XP_003927505.1:0.0462863,Homo_sapiens_NP_114156.1:0.0814017):0.181787,Microcebus_murinus_XP_012593127.1:0.181827):0.366277);

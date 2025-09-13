@@ -1,0 +1,1 @@
+(Echinops_telfairi_XP_030743985.1:0.364129,((Urocitellus_parryii_XP_026262420.1:0.256315,(Myotis_lucifugus_XP_014306499.1:0.440961,Myotis_lucifugus_XP_006107692.2:1.90433e-06):0.199425):0.223083,Myotis_lucifugus_XP_014306257.1:0.120634):0.364129);

@@ -1,0 +1,1 @@
+((Microcebus_murinus_XP_020137960.1:0.106737,(Urocitellus_parryii_XP_026240213.1:0.0651294,Myotis_lucifugus_XP_023607828.1:0.0834766):0.183375):0.0417971,(Echinops_telfairi_XP_030744512.2:0.18014,(Echinops_telfairi_XP_004697090.1:0.415446,Echinops_telfairi_XP_045140674.1:0.487752):0.0614137):0.0417971);

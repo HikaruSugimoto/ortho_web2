@@ -1,0 +1,1 @@
+(Loxodonta_africana_XP_023413047.1:0.303316,((Homo_sapiens_NP_001400922.1:0,Homo_sapiens_NP_001400924.1:0):0,Homo_sapiens_NP_001400923.1:0):0.303316);

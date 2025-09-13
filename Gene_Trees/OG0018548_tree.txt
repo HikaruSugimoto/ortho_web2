@@ -1,0 +1,1 @@
+(Mesocricetus_auratus_XP_040603906.1:0.0958523,((Mesocricetus_auratus_XP_040603909.1:0.0695103,(Mesocricetus_auratus_XP_040603908.1:0.141224,Mesocricetus_auratus_XP_040603907.1:0.372022):0.302785):0.0853297,Mesocricetus_auratus_XP_040603869.1:0.41838):0.0958523);

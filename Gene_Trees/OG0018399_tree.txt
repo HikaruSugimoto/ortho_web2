@@ -1,0 +1,1 @@
+(Sarcophilus_harrisii_XP_031795888.1:0.273967,(Myotis_lucifugus_XP_006099827.3:0.229896,(Canis_lupus_familiaris_XP_038426422.1:0.28533,(Sus_scrofa_XP_020924288.1:0.117572,Sus_scrofa_NP_001032224.1:0.0349666):0.19481):0.0288346):0.273967);

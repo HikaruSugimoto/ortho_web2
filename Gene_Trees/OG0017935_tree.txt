@@ -1,0 +1,1 @@
+(((Myotis_lucifugus_XP_023602390.1:0.230918,Ursus_americanus_XP_045635607.1:0.00481136):0.0072907,((Rattus_norvegicus_XP_063120752.1:0.0306304,Mesocricetus_auratus_XP_040610045.1:0.145777):0.00961769,Homo_sapiens_NP_001401624.1:0.0680546):0.0144564):0.0542835,((Echinops_telfairi_XP_045146490.1:0,Echinops_telfairi_XP_045146488.1:0):0,Echinops_telfairi_XP_045146487.1:0):0.0542835);

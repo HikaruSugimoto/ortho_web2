@@ -1,0 +1,1 @@
+(Sarcophilus_harrisii_XP_023362498.2:0.582276,(Saimiri_boliviensis_boliviensis_XP_039326255.1:2.2679e-06,((Sus_scrofa_XP_020938649.1:0.0350837,Sus_scrofa_XP_020938648.1:0.123727):0.413973,Homo_sapiens_NP_001382184.1:0.0840435):0.481661):0.582276);

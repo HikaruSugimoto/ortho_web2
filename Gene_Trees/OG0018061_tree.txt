@@ -1,0 +1,1 @@
+(Sarcophilus_harrisii_XP_031813442.1:0.154485,(Echinops_telfairi_XP_045153600.1:0.231344,(Mesocricetus_auratus_XP_040607420.1:0.357593,((Canis_lupus_familiaris_XP_038439658.1:0.110737,Ursus_americanus_XP_045667004.1:0.102533):0.111946,(Urocitellus_parryii_XP_026248731.1:0.0195254,Ictidomys_tridecemlineatus_XP_005325767.2:0.0205226):0.210645):0.375585):0.0206939):0.154485);

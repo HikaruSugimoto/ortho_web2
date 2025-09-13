@@ -1,0 +1,1 @@
+(Saimiri_boliviensis_boliviensis_XP_003943970.1:0.143649,((Homo_sapiens_NP_758965.2:1.14206e-06,Homo_sapiens_NP_066274.2:0.545216):0.184229,(Homo_sapiens_NP_640343.1:0,Homo_sapiens_NP_001318.1:0):0.193696):0.143649);

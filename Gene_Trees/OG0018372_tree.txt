@@ -1,0 +1,1 @@
+(Canis_lupus_familiaris_NP_001271380.1:0.381144,((Urocitellus_parryii_XP_026257871.1:2.50145e-06,Ictidomys_tridecemlineatus_XP_005320696.1:0.334652):0.544626,(Saimiri_boliviensis_boliviensis_XP_003941055.1:0.11302,Homo_sapiens_NP_997352.1:0.208285):0.564372):0.381144);

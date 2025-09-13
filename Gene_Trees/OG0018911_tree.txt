@@ -1,0 +1,1 @@
+((Sarcophilus_harrisii_XP_031805169.1:0.147061,Sarcophilus_harrisii_XP_031809278.1:0.13688):0.119572,(Sus_scrofa_XP_020940562.1:0.345039,Microcebus_murinus_XP_020137961.1:0.202708):0.119572);

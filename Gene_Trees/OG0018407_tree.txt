@@ -1,0 +1,1 @@
+((Canis_lupus_familiaris_XP_038445610.1:0.0561303,Canis_lupus_familiaris_XP_038444885.1:0.376403):0.11224,(Myotis_lucifugus_XP_006088364.1:0.068039,(Myotis_lucifugus_XP_006104073.1:0.18464,Myotis_lucifugus_XP_023602720.1:0.218434):0.086944):0.11224);

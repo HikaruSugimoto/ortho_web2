@@ -1,0 +1,1 @@
+(Mus_musculus_XP_036020487.1:0,(Mus_musculus_XP_036020486.1:0,((Mus_musculus_XP_036020488.1:0.01429,Mus_musculus_XP_030102911.1:0.323271):0.032889,Mus_musculus_XP_036020485.1:0):0):0);

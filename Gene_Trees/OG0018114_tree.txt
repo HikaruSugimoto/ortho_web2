@@ -1,0 +1,1 @@
+(Sarcophilus_harrisii_XP_023363014.1:0.18316,((((Homo_sapiens_NP_060147.2:0.027455,Saimiri_boliviensis_boliviensis_XP_003941000.1:0.023532):0.002364,Microcebus_murinus_XP_012605454.1:0.072717):0.0082735,(Urocitellus_parryii_XP_026268136.1:0.00440794,Ictidomys_tridecemlineatus_XP_013218267.1:0.00151106):0.0424129):0.0175941,Sus_scrofa_XP_003135195.3:0.0647339):0.18316);

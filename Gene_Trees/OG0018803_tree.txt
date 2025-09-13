@@ -1,0 +1,1 @@
+(Ictidomys_tridecemlineatus_XP_040143060.1:0.100806,(Ictidomys_tridecemlineatus_XP_040143058.1:0.106997,(Ictidomys_tridecemlineatus_XP_040143059.1:0.0381432,Ictidomys_tridecemlineatus_XP_040143055.1:0.54193):0.0236123):0.100806);

@@ -1,0 +1,1 @@
+(Homo_sapiens_XP_047275337.1:0.803781,(Mus_musculus_XP_030105982.1:0.504905,(Mus_musculus_NP_001159364.1:0,Mus_musculus_NP_001268954.2:0):0.141524):0.803781);

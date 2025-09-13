@@ -1,0 +1,1 @@
+(Microcebus_murinus_XP_020140587.1:0.139994,(Rattus_norvegicus_XP_063127891.1:0.320611,(Mesocricetus_auratus_XP_040602574.1:0.34122,Rattus_norvegicus_XP_063136794.1:0.785088):0.521733):0.139994);

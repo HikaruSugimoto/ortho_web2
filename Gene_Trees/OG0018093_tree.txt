@@ -1,0 +1,1 @@
+(((Rattus_norvegicus_XP_063136505.1:0.394123,Mesocricetus_auratus_XP_040600167.1:0.248371):0.0816447,Mus_musculus_XP_017168485.1:0.369674):0.0693644,(Homo_sapiens_NP_001355056.1:1.36143e-06,((Homo_sapiens_NP_001137443.1:0,Homo_sapiens_NP_001137442.1:0):0,Homo_sapiens_XP_047275519.1:0):0.13622):0.0693644);

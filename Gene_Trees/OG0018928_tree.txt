@@ -1,0 +1,1 @@
+((Mus_musculus_XP_006527322.1:0,Mus_musculus_NP_001157674.1:0):0.821847,(Ursus_americanus_XP_045643048.1:0,Ursus_americanus_XP_045643049.1:0):0.821847);

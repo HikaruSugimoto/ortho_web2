@@ -1,0 +1,1 @@
+(Canis_lupus_familiaris_XP_038391031.1:0.0899638,(Microcebus_murinus_XP_020139346.1:0.253444,((Rattus_norvegicus_XP_006254888.1:0.0846014,Mesocricetus_auratus_XP_040597920.1:0.0831846):0.113138,Ictidomys_tridecemlineatus_XP_040127749.1:0.196987):0.0470701):0.0899638);

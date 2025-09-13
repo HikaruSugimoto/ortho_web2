@@ -1,0 +1,1 @@
+(Microcebus_murinus_XP_012607840.1:0,(Microcebus_murinus_XP_012607839.1:0,((Microcebus_murinus_XP_012607811.1:0.400042,(Microcebus_murinus_XP_012607836.1:0,Microcebus_murinus_XP_012607835.1:0):0.308784):0.574142,Microcebus_murinus_XP_012607837.1:0):0):0);

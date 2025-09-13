@@ -1,0 +1,1 @@
+(Echinops_telfairi_XP_004697278.1:0.0570105,(((Loxodonta_africana_XP_023397049.1:0.0520215,Loxodonta_africana_XP_003422197.1:0.0312475):0.0308927,Loxodonta_africana_XP_003405004.1:0.0461089):0.0110036,((Loxodonta_africana_XP_003422198.1:0.0330406,Loxodonta_africana_XP_003422192.1:0.0251904):0.00813625,Loxodonta_africana_XP_003405003.1:0.0360268):0.0659262):0.0570105);

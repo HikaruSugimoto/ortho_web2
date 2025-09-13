@@ -1,0 +1,1 @@
+(Canis_lupus_familiaris_XP_038423116.1:2.5e-07,(Canis_lupus_familiaris_XP_038423117.1:5e-07,(Canis_lupus_familiaris_XP_038423115.1:5e-07,Canis_lupus_familiaris_XP_038423118.1:5e-07):0):2.5e-07);

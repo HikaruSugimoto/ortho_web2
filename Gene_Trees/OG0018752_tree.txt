@@ -1,0 +1,1 @@
+(Myotis_lucifugus_XP_023605857.1:0.398807,((Microcebus_murinus_XP_020142812.1:0.377691,Saimiri_boliviensis_boliviensis_XP_010335869.1:0.288923):0.0990858,Homo_sapiens_NP_067648.1:0.138221):0.398807);

@@ -1,0 +1,1 @@
+((Homo_sapiens_NP_001032817.1:0.137388,Echinops_telfairi_XP_030742742.1:0.163773):0.020911,(Loxodonta_africana_XP_023402797.1:0.0754145,(Ursus_americanus_XP_045660687.1:0.104426,(Myotis_lucifugus_XP_023613485.1:0.249487,(Ictidomys_tridecemlineatus_XP_005318912.1:0.00970559,Urocitellus_parryii_XP_026256656.1:0.0262584):0.103487):0.052342):0.0385225):0.020911);

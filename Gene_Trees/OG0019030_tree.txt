@@ -1,0 +1,1 @@
+(Ursus_americanus_XP_045630166.1:0,(Ursus_americanus_XP_045630157.1:0,(Ursus_americanus_XP_045653129.1:0.611935,Ursus_americanus_XP_045630175.1:0):0):0);

@@ -1,0 +1,1 @@
+(Myotis_lucifugus_XP_014302497.1:0.0778174,((Urocitellus_parryii_XP_026263006.1:0.0144749,(Urocitellus_parryii_XP_026270743.1:0.24642,Urocitellus_parryii_XP_026266551.1:0.057725):0.00749155):0.122611,((Microcebus_murinus_XP_012613079.1:0,Microcebus_murinus_XP_012613080.1:0):0.295934,Ictidomys_tridecemlineatus_XP_040142682.1:0.460204):0.330679):0.0778174);

@@ -1,0 +1,1 @@
+(Saimiri_boliviensis_boliviensis_XP_039333668.1:0.0931844,((Urocitellus_parryii_XP_026241082.1:0.0109013,Ictidomys_tridecemlineatus_XP_005337943.1:0.0129367):0.14808,(Mesocricetus_auratus_XP_040604261.1:0.197493,(Mus_musculus_NP_444490.2:0.094018,(Rattus_norvegicus_XP_017453326.1:0,Rattus_norvegicus_XP_017453327.1:0):0.106211):0.0718039):0.0634946):0.0931844);

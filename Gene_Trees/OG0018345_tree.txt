@@ -1,0 +1,1 @@
+(Myotis_lucifugus_XP_014322781.2:0,((Myotis_lucifugus_XP_023599163.1:0,(Myotis_lucifugus_XP_023599165.1:0,Myotis_lucifugus_XP_023599166.1:0):0):0,(Myotis_lucifugus_XP_023599164.1:0,Myotis_lucifugus_XP_023599162.1:0):0):0);

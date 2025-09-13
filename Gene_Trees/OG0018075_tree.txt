@@ -1,0 +1,1 @@
+(((Ursus_americanus_XP_045651731.1:0.127747,(Microcebus_murinus_XP_012607738.1:0.0716778,Homo_sapiens_NP_036485.2:0.0861922):0.00662019):0.0231288,Urocitellus_parryii_XP_026238413.1:0.158471):0.0132237,((Loxodonta_africana_XP_010591687.1:0.111453,Echinops_telfairi_XP_030744589.1:0.152766):0.0507397,Loxodonta_africana_XP_023398229.1:0.135338):0.0132237);

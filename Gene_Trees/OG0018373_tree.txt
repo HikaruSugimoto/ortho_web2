@@ -1,0 +1,1 @@
+(Canis_lupus_familiaris_NP_001371794.1:0.0112508,((Saimiri_boliviensis_boliviensis_XP_039321637.1:0.530996,(Mus_musculus_NP_001371525.1:4.787e-05,Rattus_norvegicus_NP_001371781.1:0.0360291):0.0342196):0.00388662,Homo_sapiens_NP_001371526.1:0.0546004):0.0112508);

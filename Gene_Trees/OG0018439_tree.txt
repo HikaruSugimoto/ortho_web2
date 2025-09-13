@@ -1,0 +1,1 @@
+(((Homo_sapiens_NP_001135917.1:0.131514,Microcebus_murinus_XP_020138410.1:0.56966):0.0151479,Loxodonta_africana_XP_023406844.1:0.264061):0.026552,(Loxodonta_africana_XP_023406845.1:0.077346,Myotis_lucifugus_XP_023616586.1:0.140942):0.026552);

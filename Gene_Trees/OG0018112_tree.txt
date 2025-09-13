@@ -1,0 +1,1 @@
+(Myotis_lucifugus_XP_014306217.1:0.172298,(((Saimiri_boliviensis_boliviensis_XP_010332309.2:0.0722325,Homo_sapiens_NP_002112.3:0.0625365):0.0418458,Microcebus_murinus_XP_012646829.1:0.182919):0.0186419,(Mesocricetus_auratus_XP_005086949.2:0.27161,(Urocitellus_parryii_XP_026239285.1:0.0960212,Ictidomys_tridecemlineatus_XP_005318959.1:0.123843):0.0387248):0.0296517):0.172298);

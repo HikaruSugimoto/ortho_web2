@@ -1,0 +1,1 @@
+((Rattus_norvegicus_XP_038959479.1:0.166821,Rattus_norvegicus_XP_038959477.1:0.0538875):0.266205,(Ursus_americanus_XP_045643191.1:1.319e-06,Sus_scrofa_XP_020932291.1:0.755819):0.266205);

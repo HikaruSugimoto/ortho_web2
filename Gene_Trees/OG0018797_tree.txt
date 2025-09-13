@@ -1,0 +1,1 @@
+(Ursus_americanus_XP_045666534.1:0.20659,((Saimiri_boliviensis_boliviensis_XP_003932111.1:0.297199,Microcebus_murinus_XP_012610101.1:0.756336):0.143361,Ictidomys_tridecemlineatus_XP_040131979.1:0.89946):0.20659);

@@ -1,0 +1,1 @@
+((Ursus_americanus_XP_045635048.1:0.170952,Canis_lupus_familiaris_XP_038407622.1:0.136197):0.0643708,(Homo_sapiens_XP_016865480.1:0.243677,Microcebus_murinus_XP_012594008.1:0.200645):0.0643708);

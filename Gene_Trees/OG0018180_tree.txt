@@ -1,0 +1,1 @@
+(Echinops_telfairi_XP_045148620.1:0.348635,((Microcebus_murinus_XP_012616718.1:0.134529,(Canis_lupus_familiaris_XP_038384616.1:0.313254,Myotis_lucifugus_XP_023599369.1:0.348419):0.0394082):0.0649879,(Ictidomys_tridecemlineatus_XP_021590888.2:0.234425,Sus_scrofa_XP_020950140.1:0.777473):0.113805):0.348635);

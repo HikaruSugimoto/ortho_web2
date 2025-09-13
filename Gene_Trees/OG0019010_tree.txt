@@ -1,0 +1,1 @@
+(Sarcophilus_harrisii_XP_031812999.1:2.5e-07,(Sarcophilus_harrisii_XP_031813000.1:5e-07,(Sarcophilus_harrisii_XP_031812994.1:0,Sarcophilus_harrisii_XP_031812993.1:0):0.564928):2.5e-07);

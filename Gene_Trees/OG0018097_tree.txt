@@ -1,0 +1,1 @@
+((Ictidomys_tridecemlineatus_XP_040147274.1:0.469862,Rattus_norvegicus_XP_038943788.1:1.15309):0.168117,(((Homo_sapiens_NP_060499.3:0.433868,Saimiri_boliviensis_boliviensis_XP_039333218.1:0.151099):0.244037,(Homo_sapiens_NP_001186867.1:0,Homo_sapiens_NP_001381686.1:0):0.0807877):0.190299,Saimiri_boliviensis_boliviensis_XP_003945291.2:0.392839):0.168117);

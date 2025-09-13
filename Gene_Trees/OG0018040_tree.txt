@@ -1,0 +1,1 @@
+(Echinops_telfairi_XP_045139583.1:0.123813,((Canis_lupus_familiaris_XP_038391657.1:0.185588,Canis_lupus_familiaris_XP_038391658.1:0.0602549):0.470176,(Canis_lupus_familiaris_XP_038391651.1:0.591467,(Rattus_norvegicus_XP_008764297.1:0.136468,(Mus_musculus_NP_001347990.1:0.0169215,Mus_musculus_NP_001365151.1:2.12197e-06):0.104036):0.236068):0.0765357):0.123813);

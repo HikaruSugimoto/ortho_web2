@@ -1,0 +1,1 @@
+(Echinops_telfairi_XP_004717866.2:0.0100998,(Ictidomys_tridecemlineatus_XP_021590097.1:0.0366413,(Ictidomys_tridecemlineatus_XP_021590091.2:0.0208624,(Myotis_lucifugus_XP_006105774.2:0.0247244,(Canis_lupus_familiaris_XP_038417994.1:0.131583,Microcebus_murinus_XP_012596794.1:0.0305818):0.00533156):0.0182326):0.00922206):0.0100998);

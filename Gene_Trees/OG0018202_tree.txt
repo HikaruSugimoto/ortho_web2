@@ -1,0 +1,1 @@
+(Loxodonta_africana_XP_023413508.1:0.0794723,((Canis_lupus_familiaris_XP_038430170.1:0.100614,Ursus_americanus_XP_045650182.1:0.0925888):0.0499029,(Mesocricetus_auratus_XP_040609000.1:0.269806,(Microcebus_murinus_XP_012647044.1:0.158284,Saimiri_boliviensis_boliviensis_XP_003945325.1:0.216334):0.0100247):0.0233857):0.0794723);

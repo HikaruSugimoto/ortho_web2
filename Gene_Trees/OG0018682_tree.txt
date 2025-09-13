@@ -1,0 +1,1 @@
+((Ursus_americanus_XP_045654398.1:0.38461,Echinops_telfairi_XP_045150537.1:0.379451):0.0616681,(Loxodonta_africana_XP_023402625.1:0.186839,Ursus_americanus_XP_045654397.1:0.282942):0.0616681);

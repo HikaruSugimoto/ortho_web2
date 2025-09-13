@@ -1,0 +1,1 @@
+((Saimiri_boliviensis_boliviensis_XP_010336358.2:0.281977,Loxodonta_africana_XP_023413454.1:0.185266):0.0598006,(Echinops_telfairi_XP_012862578.1:0.271781,Microcebus_murinus_XP_012609028.1:0.189609):0.0598006);

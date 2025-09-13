@@ -1,0 +1,1 @@
+(Echinops_telfairi_XP_045145917.1:0.122286,(Mesocricetus_auratus_XP_040612122.1:0.310407,(Canis_lupus_familiaris_XP_038445013.1:0.175085,Canis_lupus_familiaris_XP_038444973.1:0.0777237):0.239769):0.122286);

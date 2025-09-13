@@ -1,0 +1,1 @@
+(Sarcophilus_harrisii_XP_012408845.1:0.040547,((Sus_scrofa_XP_005659127.1:0.0199494,(Canis_lupus_familiaris_XP_038443612.1:0.0856394,Ursus_americanus_XP_045644736.1:0.0225976):0.00399763):0.00499775,((Urocitellus_parryii_XP_026268391.1:0.0107464,Ictidomys_tridecemlineatus_XP_013220487.1:0.0536516):0.0188164,Microcebus_murinus_XP_012591623.2:0.140204):0.0037985):0.040547);

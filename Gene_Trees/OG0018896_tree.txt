@@ -1,0 +1,1 @@
+(Sus_scrofa_XP_020921964.1:0.471028,(Mesocricetus_auratus_XP_040603969.1:0.719429,(Microcebus_murinus_XP_012642090.1:0.691342,Saimiri_boliviensis_boliviensis_XP_010329835.1:0.669295):0.0304687):0.471028);

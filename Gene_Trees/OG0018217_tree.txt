@@ -1,0 +1,1 @@
+(Echinops_telfairi_XP_045146424.1:0.0617724,((Echinops_telfairi_XP_045145326.1:0.0398027,Echinops_telfairi_XP_045146425.1:0.0504262):0.0514688,(Echinops_telfairi_XP_004714636.1:0.376734,(Echinops_telfairi_XP_012863929.1:0.225998,Echinops_telfairi_XP_045145332.1:0.0832066):0.238457):0.579195):0.0617724);

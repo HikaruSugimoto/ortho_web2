@@ -1,0 +1,1 @@
+(Rattus_norvegicus_NP_001092975.1:0.136465,((Rattus_norvegicus_NP_001092964.1:0.024879,Rattus_norvegicus_XP_006241191.1:0.024572):0.0697925,(Rattus_norvegicus_XP_038935860.1:0.025311,Rattus_norvegicus_NP_001092965.1:0.02514):0.104427):0.136465);

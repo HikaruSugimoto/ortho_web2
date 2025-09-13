@@ -1,0 +1,1 @@
+(Ictidomys_tridecemlineatus_XP_021577920.1:0.0531129,(Saimiri_boliviensis_boliviensis_XP_039323568.1:0.00268525,(Saimiri_boliviensis_boliviensis_XP_039320370.1:0.491936,Saimiri_boliviensis_boliviensis_XP_010336233.2:0.0395932):0.00910825):0.0531129);

@@ -1,0 +1,1 @@
+(Sarcophilus_harrisii_XP_031813828.1:0.263781,(((((Rattus_norvegicus_XP_038940587.1:0.0715568,Mus_musculus_NP_001365589.1:0.0527142):0.0251888,Mesocricetus_auratus_XP_040609181.1:0.0620222):0.0627861,Ictidomys_tridecemlineatus_XP_040123833.1:0.126563):0.0189448,Ursus_americanus_XP_045631258.1:0.122345):0.0155529,Homo_sapiens_NP_001382800.1:0.109558):0.263781);

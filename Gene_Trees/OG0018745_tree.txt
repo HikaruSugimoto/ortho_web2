@@ -1,0 +1,1 @@
+((Homo_sapiens_NP_002979.1:0.335868,Microcebus_murinus_XP_012639888.1:0.316069):0.181948,(Myotis_lucifugus_XP_014322789.1:0,Myotis_lucifugus_XP_006101971.1:0):0.181948);

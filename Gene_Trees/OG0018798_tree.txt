@@ -1,0 +1,1 @@
+(Microcebus_murinus_XP_012611400.1:0.299639,(Ictidomys_tridecemlineatus_XP_040134961.1:0.367142,(Ictidomys_tridecemlineatus_XP_040134962.1:0.948765,Urocitellus_parryii_XP_026248076.1:2.34505e-06):1.04076):0.299639);

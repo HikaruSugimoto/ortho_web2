@@ -1,0 +1,1 @@
+(Rattus_norvegicus_XP_038955159.1:0.000683435,(Rattus_norvegicus_XP_063135722.1:0.0186431,(Rattus_norvegicus_XP_063135751.1:1.29779e-06,(Rattus_norvegicus_XP_063135759.1:0.205834,(Rattus_norvegicus_XP_063135755.1:0.815666,Rattus_norvegicus_XP_063135756.1:1.29779e-06):0.25402):0.0731386):0.00606388):0.000683435);

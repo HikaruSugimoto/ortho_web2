@@ -1,0 +1,1 @@
+((Myotis_lucifugus_XP_014305658.2:0.181639,Microcebus_murinus_XP_020141210.1:0.605777):0.215806,(Canis_lupus_familiaris_XP_038445494.1:0.523599,Urocitellus_parryii_XP_026250034.1:0.443107):0.215806);

@@ -1,0 +1,1 @@
+((Ursus_americanus_XP_045669454.1:0.0643732,Ursus_americanus_XP_045644791.1:0.274):0.0761082,(Urocitellus_parryii_XP_026237909.1:0.144114,((Homo_sapiens_XP_011528074.1:0.160764,Microcebus_murinus_XP_020140279.1:0.157088):0.0132378,(Urocitellus_parryii_XP_026238677.1:0.020415,Urocitellus_parryii_XP_026249364.1:0.003943):0.157372):0.0149028):0.0761082);

@@ -1,0 +1,1 @@
+(Loxodonta_africana_XP_023411209.1:0.143025,((Ictidomys_tridecemlineatus_XP_040124201.1:0,Ictidomys_tridecemlineatus_XP_040124200.1:0):0.383633,(Microcebus_murinus_XP_012617862.1:0.142636,(Canis_lupus_familiaris_XP_038427065.1:0.0851764,Ursus_americanus_XP_045667120.1:0.0843406):0.0728881):0.0134131):0.143025);

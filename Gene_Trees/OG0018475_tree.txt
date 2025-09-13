@@ -1,0 +1,1 @@
+((Mus_musculus_NP_619625.1:0.295767,Rattus_norvegicus_NP_001399955.1:0.00883083):0.243615,(Microcebus_murinus_XP_012635896.1:0.589401,(Homo_sapiens_NP_543145.1:0.100892,Saimiri_boliviensis_boliviensis_XP_003936465.2:0.124888):0.264431):0.243615);

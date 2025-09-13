@@ -1,0 +1,1 @@
+(Loxodonta_africana_XP_023403318.1:1.01308,(Mus_musculus_NP_001013826.2:1.29982,(Mesocricetus_auratus_XP_040607411.1:0.304711,Mesocricetus_auratus_XP_040607412.1:0.484073):0.578063):1.01308);

@@ -1,0 +1,1 @@
+(Loxodonta_africana_XP_023401773.1:0.423045,(((Sus_scrofa_XP_020944579.1:0,Sus_scrofa_XP_020944580.1:0):0.165814,(Sus_scrofa_XP_020944584.1:0,Sus_scrofa_XP_020944583.1:0):0.327535):0.190077,(Mesocricetus_auratus_XP_040586427.1:0.180093,(Rattus_norvegicus_XP_063119587.1:0.0467111,Rattus_norvegicus_NP_001014106.1:0.174317):0.0431191):0.243027):0.423045);

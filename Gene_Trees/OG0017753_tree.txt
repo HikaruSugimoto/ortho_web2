@@ -1,0 +1,1 @@
+(Sus_scrofa_NP_001230507.1:0.114017,((Canis_lupus_familiaris_XP_038387604.1:0,Canis_lupus_familiaris_XP_038387605.1:0):0.075613,((Ursus_americanus_XP_045638493.1:0,(Ursus_americanus_XP_045638498.1:0,(Ursus_americanus_XP_045638497.1:0,(Ursus_americanus_XP_045638492.1:0,Ursus_americanus_XP_045638495.1:0):0):0):0):0,Ursus_americanus_XP_045638496.1:0):0.095926):0.114017);

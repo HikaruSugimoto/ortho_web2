@@ -1,0 +1,1 @@
+((Myotis_lucifugus_XP_023600286.1:0.232691,Homo_sapiens_NP_001265230.1:0.0972148):0.139397,(Loxodonta_africana_XP_023410856.1:0.262873,Loxodonta_africana_XP_023398799.1:0.185373):0.139397);

@@ -1,0 +1,1 @@
+(Sarcophilus_harrisii_XP_031795051.1:0.0101939,((Homo_sapiens_NP_001350678.1:0.0306727,Mesocricetus_auratus_NP_001268513.1:0.0139323):0.0142822,(Mus_musculus_NP_620690.1:0,Rattus_norvegicus_NP_620691.2:0):0.00489625):0.0101939);

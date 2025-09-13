@@ -1,0 +1,1 @@
+(Loxodonta_africana_XP_010595478.1:0.268314,(Sus_scrofa_XP_020919613.1:0.250877,(Homo_sapiens_NP_001032647.2:0.247165,Myotis_lucifugus_XP_006110110.3:0.6235):0.148318):0.268314);

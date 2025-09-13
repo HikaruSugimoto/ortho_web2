@@ -1,0 +1,1 @@
+(Sarcophilus_harrisii_XP_003761983.1:0.198649,(Sus_scrofa_XP_003481131.1:0.0831066,(Canis_lupus_familiaris_XP_038396901.1:0.0329497,(Ursus_americanus_XP_045640412.1:0.0446531,(Loxodonta_africana_XP_003417853.1:0.226355,(Saimiri_boliviensis_boliviensis_XP_003928390.1:0.0226142,Homo_sapiens_NP_001003938.1:0.0251888):0.0385797):0.0124303):0.0028707):0.017978):0.198649);

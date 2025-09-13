@@ -1,0 +1,1 @@
+(Loxodonta_africana_XP_023395103.1:0.355029,(Urocitellus_parryii_XP_026263214.1:0.311034,((Mus_musculus_NP_001365614.1:0,Mus_musculus_XP_006529071.1:0):0.0832109,(Mus_musculus_XP_006528944.1:0,Mus_musculus_NP_001094971.1:0):0.0185011):0.503995):0.355029);

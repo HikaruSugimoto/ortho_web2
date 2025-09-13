@@ -1,0 +1,1 @@
+(Sarcophilus_harrisii_XP_003758536.1:0.118085,(Echinops_telfairi_XP_045149538.1:0.241227,((Rattus_norvegicus_NP_852029.3:0,Rattus_norvegicus_XP_017456665.1:0):0.054732,(Mesocricetus_auratus_XP_040591474.1:0.232554,(Mus_musculus_XP_030099174.1:0,Mus_musculus_NP_573465.1:0):0.0517065):0.0215215):0.155861):0.118085);

@@ -1,0 +1,1 @@
+(Loxodonta_africana_XP_010588737.1:0.463539,((Urocitellus_parryii_XP_026251929.1:0.0290983,Ictidomys_tridecemlineatus_XP_005323684.1:0.0473627):0.38564,(Mesocricetus_auratus_XP_005073970.1:0.508758,(Rattus_norvegicus_XP_038944657.1:0.19749,Mus_musculus_NP_081449.1:0.0561124):0.219925):0.219671):0.463539);

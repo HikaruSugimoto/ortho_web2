@@ -1,0 +1,1 @@
+((Sarcophilus_harrisii_XP_023353467.1:5e-07,Sarcophilus_harrisii_XP_031801364.1:5e-07):0.0144045,(Mus_musculus_XP_036017328.1:0.0942135,Homo_sapiens_XP_047280066.1:0.0212015):0.0144045);

@@ -1,0 +1,1 @@
+((Sus_scrofa_XP_020937689.1:1.02621e-06,(Sus_scrofa_XP_003123459.1:0.219426,Sus_scrofa_XP_020940761.1:0.0129054):0.181802):0.208933,(Ictidomys_tridecemlineatus_XP_040147120.1:0.292396,Ictidomys_tridecemlineatus_XP_005342372.3:0.00233767):0.208933);

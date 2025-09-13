@@ -1,0 +1,1 @@
+((Urocitellus_parryii_XP_026247148.1:0.0449338,Echinops_telfairi_XP_045139780.1:0.281688):0.00050063,(((Myotis_lucifugus_XP_014302093.2:0.15711,Myotis_lucifugus_XP_023610883.1:0.107211):0.249448,Saimiri_boliviensis_boliviensis_XP_039319945.1:0.573067):0.033877,Echinops_telfairi_XP_004696599.2:1.44533e-06):0.00050063);

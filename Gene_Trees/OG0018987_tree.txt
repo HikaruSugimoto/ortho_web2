@@ -1,0 +1,1 @@
+(Saimiri_boliviensis_boliviensis_XP_003945229.2:0.619067,((Saimiri_boliviensis_boliviensis_XP_039324757.1:0.894307,Saimiri_boliviensis_boliviensis_XP_039319933.1:0.411122):0.13572,Saimiri_boliviensis_boliviensis_XP_039326289.1:0.71269):0.619067);

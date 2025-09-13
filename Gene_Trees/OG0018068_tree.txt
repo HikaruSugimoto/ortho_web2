@@ -1,0 +1,1 @@
+((Loxodonta_africana_XP_003415338.1:0.149465,Echinops_telfairi_XP_004705362.1:0.294741):0.0428696,(Myotis_lucifugus_XP_006094328.1:0.212498,(Urocitellus_parryii_XP_026262648.1:0.205835,(Mesocricetus_auratus_XP_005079681.1:0.143124,(Rattus_norvegicus_NP_001102152.1:0.124005,Mus_musculus_NP_991392.1:0.114944):0.0455889):0.180073):0.01505):0.0428696);

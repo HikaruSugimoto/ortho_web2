@@ -1,0 +1,1 @@
+(Echinops_telfairi_XP_045154766.1:0.277977,(Rattus_norvegicus_XP_063133733.1:0.108074,(Canis_lupus_familiaris_XP_038401902.1:0.210061,(Saimiri_boliviensis_boliviensis_XP_039330503.1:0.300372,((Rattus_norvegicus_XP_063133793.1:0.146306,Rattus_norvegicus_XP_063124008.1:0.149311):0.0368328,Mesocricetus_auratus_XP_040613353.1:0.228228):0.12969):0.164968):0.0395956):0.277977);

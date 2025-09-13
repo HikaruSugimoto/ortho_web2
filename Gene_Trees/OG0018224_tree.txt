@@ -1,0 +1,1 @@
+(Echinops_telfairi_XP_045144913.1:0.0938262,(Homo_sapiens_NP_001332840.1:0.0008305,(Homo_sapiens_NP_001332841.1:0,(Homo_sapiens_NP_001332842.1:0,(Homo_sapiens_NP_001332843.1:0,Homo_sapiens_NP_001332844.1:0):0):-0):0.0028615):0.0938262);

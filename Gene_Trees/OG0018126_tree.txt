@@ -1,0 +1,1 @@
+(Microcebus_murinus_XP_012594100.1:0.176016,((Mesocricetus_auratus_XP_005068329.1:0.239137,((Mus_musculus_XP_112098.3:0.0262373,Mus_musculus_NP_001297401.1:0.00076767):0.159141,Rattus_norvegicus_NP_853661.2:0.175779):0.154746):0.298162,(Urocitellus_parryii_XP_026250042.1:0.0358015,Ictidomys_tridecemlineatus_XP_013220139.2:0.128586):0.359432):0.176016);

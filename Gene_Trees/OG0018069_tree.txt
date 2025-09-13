@@ -1,0 +1,1 @@
+((Echinops_telfairi_XP_045148586.1:0.205946,Echinops_telfairi_XP_004710681.1:0.149207):0.466973,(Ictidomys_tridecemlineatus_XP_021589778.2:1.00002,((Saimiri_boliviensis_boliviensis_XP_039321688.1:0.375029,Saimiri_boliviensis_boliviensis_XP_039321689.1:0.35512):0.226947,(Homo_sapiens_NP_940881.3:0.436694,Homo_sapiens_NP_001384276.1:0.331015):0.132193):0.33013):0.466973);

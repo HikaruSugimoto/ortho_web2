@@ -1,0 +1,1 @@
+(Myotis_lucifugus_XP_023604911.1:0.183041,(Homo_sapiens_NP_001332959.1:0.163183,(Homo_sapiens_NP_001332962.1:0,Homo_sapiens_NP_116318.2:0):0.0411575):0.183041);

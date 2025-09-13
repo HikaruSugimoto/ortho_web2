@@ -1,0 +1,1 @@
+(Rattus_norvegicus_XP_038943981.1:0.076878,((Mus_musculus_NP_001106876.1:0,Mus_musculus_NP_598872.1:0):0,Mus_musculus_NP_001345031.1:0):0.076878);

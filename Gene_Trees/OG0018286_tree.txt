@@ -1,0 +1,1 @@
+(Sarcophilus_harrisii_XP_031794887.1:0.179568,(Saimiri_boliviensis_boliviensis_NP_001354858.1:0.0964244,(Ictidomys_tridecemlineatus_XP_040128217.1:0.0805238,(Mesocricetus_auratus_XP_040597757.1:0.0678957,(Rattus_norvegicus_NP_001354856.1:0.0270509,Mus_musculus_NP_001354852.1:0.0385541):0.0265573):0.0556071):0.039861):0.179568);

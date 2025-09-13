@@ -1,0 +1,1 @@
+(Ictidomys_tridecemlineatus_XP_013214700.2:0.501593,((Mus_musculus_NP_778213.2:0.167621,Mus_musculus_NP_001230130.1:0.190266):0.385449,Mus_musculus_NP_001230129.1:1.64103e-06):0.501593);

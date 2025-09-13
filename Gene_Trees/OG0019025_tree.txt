@@ -1,0 +1,1 @@
+(Sus_scrofa_XP_020937990.1:0.180509,((Ursus_americanus_XP_045653445.1:0.038014,Ursus_americanus_XP_045653427.1:0.031945):0.166076,Ursus_americanus_XP_045659589.1:5.57917e-07):0.180509);

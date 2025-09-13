@@ -1,0 +1,1 @@
+((Sus_scrofa_XP_005656517.1:0.405231,(Urocitellus_parryii_XP_026267552.1:0.0488082,Ictidomys_tridecemlineatus_XP_013217677.1:0.0486218):0.390668):0.0360523,((Saimiri_boliviensis_boliviensis_XP_003929058.1:0.187312,Homo_sapiens_NP_004909.1:0.0943263):0.167537,(Canis_lupus_familiaris_XP_038401909.1:0.208471,Ursus_americanus_XP_045671770.1:0.234968):0.113229):0.0360523);

@@ -1,0 +1,1 @@
+((Rattus_norvegicus_XP_063143030.1:1.26478,Sus_scrofa_XP_020956192.1:1.39149):0.486196,(Loxodonta_africana_XP_023414330.1:3.87751e-06,(Loxodonta_africana_XP_023404385.1:0.0390785,(Loxodonta_africana_XP_023397832.1:0,Loxodonta_africana_XP_023397833.1:0):0.0997635):0.130665):0.486196);

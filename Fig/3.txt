@@ -1,0 +1,24 @@
+This application used the following genome data to estimate orthologs and phylogenetic trees.
+
+Golden hamster (Mesocricetus auratus): BCM_Maur_2.0 (https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_017639785.1/);
+Human (Homo sapiens): GRCh38.p14 (https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001405.40/);
+Mouse (Mus musculus): GRCm39 (https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001635.27/);
+Rat (Rattus norvegicus): GRCr8 (https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_036323735.1/);
+Dog (Canis lupus familiaris): UU_Cfam_GSD_1.0 (https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_011100685.1/);
+Elephant (Loxodonta africana): mLoxAfr1.hap2 (https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_030014295.1/);
+Lesser hedgehog tenrec (Echinops telfairi): ASM31398v2 (https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000313985.2/);
+Thirteen-lined ground squirrel (Istidomys tridecemlineatus): HiC_Itri_2 (https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_016881025.1/);
+Gray mouse lemur (Microcebus murinus): Mmur_3.0 (https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000165445.2/);
+Little brown bat (Myotis lucifugus): Myoluc2.0 (https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000147115.1/);
+Squirrel monkey (Saimiri boliviensis boliviensis): BCM_Sbol_2.1 (https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_016699345.2/);
+Tasmanian devil (Sarcophilus harrisii): mSarHar1.11 (https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_902635505.1/);
+Pig (Sus scrofa): Sscrofa11.1 (https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000003025.6/);
+Arctic ground squirrel (Urocitellus parryii): ASM342692v1 (https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_003426925.1/);
+American black bear (Ursus americanus): gsc_jax_bbear_1.0 (https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_020975775.1/).
+
+This application used OrthoFinder [1, 2] to infer orthologs and phylogenetic trees. Briefly, DIAMOND [3] was used for sequence searching and DendroBLAST [4] for orthogroup tree inference.
+ 
+[1] Emms, David M., and Steven Kelly. "OrthoFinder: phylogenetic orthology inference for comparative genomics." Genome biology 20 (2019): 1-14.
+[2] Emms, David M., and Steven Kelly. "OrthoFinder: solving fundamental biases in whole genome comparisons dramatically improves orthogroup inference accuracy." Genome biology 16 (2015): 1-14.
+[3] Buchfink, Benjamin, Chao Xie, and Daniel H. Huson. "Fast and sensitive protein alignment using DIAMOND." Nature methods 12.1 (2015): 59-60.
+[4] Kelly, Steven, and Philip K. Maini. "DendroBLAST: approximate phylogenetic trees in the absence of multiple sequence alignments." PLoS One 8.3 (2013): e58537.

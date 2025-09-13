@@ -1,0 +1,1 @@
+(Sus_scrofa_XP_020929880.1:0,((Sus_scrofa_XP_020929879.1:0,(Sus_scrofa_XP_020929883.1:0,(Sus_scrofa_XP_020929885.1:0,(Sus_scrofa_XP_020929878.1:0,Sus_scrofa_XP_020929884.1:0):0):0):0):0,(Sus_scrofa_XP_020929882.1:0,Sus_scrofa_XP_020929881.1:0):0):0);

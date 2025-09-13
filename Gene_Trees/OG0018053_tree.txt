@@ -1,0 +1,1 @@
+(Echinops_telfairi_XP_045139969.1:0.429581,((Ictidomys_tridecemlineatus_XP_040148088.1:0.753072,Canis_lupus_familiaris_XP_038411047.1:0.545211):0.0155551,(Sus_scrofa_NP_001004029.1:0.571879,(Microcebus_murinus_XP_012641365.1:0.534623,(Homo_sapiens_XP_006714152.1:0.0139188,Homo_sapiens_NP_001881.1:0.0019872):0.674855):0.104375):0.132045):0.429581);

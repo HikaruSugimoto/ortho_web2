@@ -1,0 +1,1 @@
+(Echinops_telfairi_XP_045151461.1:0.252732,(((Ursus_americanus_XP_045663318.1:0.0600678,Canis_lupus_familiaris_NP_001271367.1:0.158535):0.541377,(Saimiri_boliviensis_boliviensis_XP_003941148.1:0.377635,Homo_sapiens_NP_112193.1:0.311306):0.239393):0.0774781,(Rattus_norvegicus_NP_599218.1:0.175576,Mus_musculus_NP_001002791.1:0.231853):0.260246):0.252732);

@@ -1,0 +1,1 @@
+(Canis_lupus_familiaris_XP_038439741.1:0.0442227,((Saimiri_boliviensis_boliviensis_XP_003925015.1:0.369034,Microcebus_murinus_XP_012634667.1:0.0179902):0.0568836,((Rattus_norvegicus_XP_063138970.1:0.0416593,Rattus_norvegicus_XP_063138972.1:0.155442):0.0680061,Mesocricetus_auratus_XP_040608570.1:0.152263):0.127381):0.0442227);

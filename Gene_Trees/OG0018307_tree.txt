@@ -1,0 +1,1 @@
+(Saimiri_boliviensis_boliviensis_XP_010333224.1:0.307161,(Mesocricetus_auratus_XP_012975977.1:0.273293,(Rattus_norvegicus_NP_001100416.1:0.104063,(Mus_musculus_NP_083123.1:1.3137e-06,(Mus_musculus_XP_006528294.1:0,Mus_musculus_NP_001192197.1:0):0.00665237):0.131099):0.186053):0.307161);

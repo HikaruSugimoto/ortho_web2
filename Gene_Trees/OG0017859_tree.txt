@@ -1,0 +1,1 @@
+((Mus_musculus_NP_001002008.1:0,(Mus_musculus_NP_001344276.1:0,Mus_musculus_XP_030105719.1:0):0):0.231712,((Rattus_norvegicus_XP_063133101.1:0,(Rattus_norvegicus_XP_063133111.1:0,Rattus_norvegicus_XP_063133103.1:0):0):0,(Rattus_norvegicus_XP_063133100.1:0,(Rattus_norvegicus_XP_063133102.1:0,Rattus_norvegicus_XP_038956170.1:0):0):0):0.231712);

@@ -1,0 +1,1 @@
+((Canis_lupus_familiaris_XP_038416496.1:0.525051,Myotis_lucifugus_XP_006088450.1:0.31324):0.0177343,(Saimiri_boliviensis_boliviensis_XP_010344467.1:0.262816,(Ictidomys_tridecemlineatus_XP_005332502.1:0.0324639,Urocitellus_parryii_XP_026254330.1:1.41204e-06):0.253272):0.0177343);

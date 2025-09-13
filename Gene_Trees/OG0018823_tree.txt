@@ -1,0 +1,1 @@
+((Mesocricetus_auratus_XP_040612796.1:0.096213,Mesocricetus_auratus_XP_040612797.1:0.651458):0.37304,(Loxodonta_africana_XP_023410410.1:0.465471,Loxodonta_africana_XP_023410412.1:1.9584e-06):0.37304);

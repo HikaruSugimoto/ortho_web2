@@ -1,0 +1,1 @@
+(Urocitellus_parryii_XP_026238243.1:0.183013,((Ictidomys_tridecemlineatus_XP_040137934.1:0.690038,Ictidomys_tridecemlineatus_XP_040138261.1:0.0217105):0.0105985,Ictidomys_tridecemlineatus_XP_040138256.1:0.0544461):0.183013);

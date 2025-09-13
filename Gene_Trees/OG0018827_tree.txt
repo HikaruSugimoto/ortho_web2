@@ -1,0 +1,1 @@
+(Sarcophilus_harrisii_XP_012395742.1:0.672335,(Loxodonta_africana_XP_023412259.1:0.361005,(Sus_scrofa_XP_020949642.1:0.533853,Ursus_americanus_XP_045670924.1:0.22955):0.149027):0.672335);

@@ -1,0 +1,1 @@
+(Homo_sapiens_XP_006724349.1:0.0323109,((Rattus_norvegicus_XP_063127624.1:0.0368708,Rattus_norvegicus_XP_063125945.1:0.223273):0.0314567,Urocitellus_parryii_XP_026259969.1:0.0881882):0.0323109);

@@ -1,0 +1,1 @@
+(Echinops_telfairi_XP_045148470.1:0,(Echinops_telfairi_XP_045148507.1:0.926129,(Echinops_telfairi_XP_045148472.1:0,Echinops_telfairi_XP_045148471.1:0):0):0);

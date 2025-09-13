@@ -1,0 +1,1 @@
+((Urocitellus_parryii_XP_026243773.1:0.0157858,Ictidomys_tridecemlineatus_XP_021589329.1:0.0144283):0.552694,(Mesocricetus_auratus_XP_005082483.1:0.11103,Mus_musculus_NP_082792.1:0.240399):0.552694);

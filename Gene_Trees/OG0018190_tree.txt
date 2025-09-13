@@ -1,0 +1,1 @@
+(Echinops_telfairi_XP_045144588.1:0.301728,(((Saimiri_boliviensis_boliviensis_XP_010347651.2:0.176735,Homo_sapiens_XP_047275676.1:0.322421):0.0757756,Microcebus_murinus_XP_012612516.1:0.240905):0.0196334,(Ursus_americanus_XP_045648131.1:0.456225,Canis_lupus_familiaris_XP_038412307.1:0.151759):0.0951142):0.301728);

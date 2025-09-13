@@ -1,0 +1,1 @@
+(Sarcophilus_harrisii_XP_003773956.1:0.140761,(Mus_musculus_NP_001005230.2:0.0678664,(Microcebus_murinus_XP_012602098.1:0.0241972,((Canis_lupus_familiaris_NP_001376136.1:0.0282581,Ursus_americanus_XP_045642974.1:0.0370519):0.0410231,(Loxodonta_africana_XP_003423420.1:0.0607976,Echinops_telfairi_XP_004715003.1:0.0552294):0.00919138):0.00641794):0.00940732):0.140761);

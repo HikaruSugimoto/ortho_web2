@@ -1,0 +1,1 @@
+(Mesocricetus_auratus_XP_012979975.2:0.357528,(Mus_musculus_XP_036008398.1:0.151918,(Mus_musculus_NP_001229950.1:1.0936e-06,Mus_musculus_XP_011249150.1:0.14228):0.113803):0.357528);

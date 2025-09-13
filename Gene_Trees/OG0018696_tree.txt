@@ -1,0 +1,1 @@
+(Ursus_americanus_XP_045626752.1:0.125178,(Rattus_norvegicus_XP_063136789.1:0.634428,(Homo_sapiens_NP_001035835.1:0.553773,Ictidomys_tridecemlineatus_XP_040139892.1:0.261744):0.0161615):0.125178);

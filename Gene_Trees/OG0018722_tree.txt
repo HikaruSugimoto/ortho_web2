@@ -1,0 +1,1 @@
+((Homo_sapiens_NP_001309398.1:0.244348,Saimiri_boliviensis_boliviensis_XP_039323812.1:0.434236):0.500986,(Urocitellus_parryii_XP_026270123.1:0.344816,Ictidomys_tridecemlineatus_XP_040137931.1:0.123816):0.500986);

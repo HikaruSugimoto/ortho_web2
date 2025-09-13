@@ -1,0 +1,1 @@
+(Loxodonta_africana_XP_010599989.2:0.124956,(Homo_sapiens_NP_066384.2:0.0539767,(((Saimiri_boliviensis_boliviensis_XP_039327234.1:0.162987,Saimiri_boliviensis_boliviensis_XP_039327059.1:0.141605):0.088939,Saimiri_boliviensis_boliviensis_XP_039327288.1:0.293646):0.0690272,Homo_sapiens_NP_001012416.1:0.0882373):0.0148533):0.124956);

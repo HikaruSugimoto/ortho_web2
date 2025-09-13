@@ -1,0 +1,1 @@
+(Sarcophilus_harrisii_XP_023354820.1:0.14199,(((Rattus_norvegicus_XP_017453655.1:0.0823185,Mus_musculus_NP_001357827.1:0.0893245):0.013989,Mesocricetus_auratus_XP_040606308.1:0.0868845):0.113193,(Microcebus_murinus_XP_012636007.1:0.168075,Ictidomys_tridecemlineatus_XP_021583664.1:0.0668931):0.0288101):0.14199);

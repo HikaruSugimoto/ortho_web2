@@ -1,0 +1,1 @@
+(Urocitellus_parryii_XP_026237405.1:0.284018,((Saimiri_boliviensis_boliviensis_XP_039316500.1:0.157976,Homo_sapiens_NP_932079.1:0.0936379):0.122864,(Saimiri_boliviensis_boliviensis_XP_003944802.1:0.154588,(Homo_sapiens_NP_001035552.1:1.29886e-06,Homo_sapiens_XP_047273720.1:0.0257866):0.105404):0.0740617):0.284018);

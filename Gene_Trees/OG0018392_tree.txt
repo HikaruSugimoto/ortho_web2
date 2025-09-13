@@ -1,0 +1,1 @@
+(((Canis_lupus_familiaris_XP_038417448.1:0,Canis_lupus_familiaris_XP_038417449.1:0):0,Canis_lupus_familiaris_XP_038417447.1:0):0.603868,(Rattus_norvegicus_XP_038964633.1:0.168542,Mus_musculus_NP_001344834.1:0.149733):0.603868);
